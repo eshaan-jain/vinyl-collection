@@ -5,9 +5,18 @@ import type { Vinyl } from "./types";
 const BASE = "https://api.discogs.com";
 const UA = "VinylFinder/0.2 (personal project)";
 
+// Discogs allows ~60 requests/min, so space calls ~1.1s apart (shared by every caller in the process).
+let lastCall = 0;
+async function throttle() {
+  const wait = lastCall + 1100 - Date.now();
+  lastCall = Math.max(Date.now(), lastCall + 1100);
+  if (wait > 0) await new Promise((r) => setTimeout(r, wait));
+}
+
 async function discogs<T>(path: string, params: Record<string, string> = {}, init: RequestInit = {}): Promise<T> {
   const token = process.env.DISCOGS_TOKEN;
   if (!token) throw new Error("DISCOGS_TOKEN is not set");
+  await throttle();
   const url = new URL(BASE + path);
   Object.entries(params).forEach(([k, v]) => url.searchParams.set(k, v));
   const res = await fetch(url, {

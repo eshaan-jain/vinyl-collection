@@ -11,17 +11,15 @@ if (!username || !process.env.DISCOGS_TOKEN) {
   process.exit(1);
 }
 const withPrices = !process.argv.includes("--no-prices");
-const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 const items = await getCollection(username);
 console.error(`Fetched ${items.length} records.`);
 
 if (withPrices) {
-  // Discogs allows ~60 requests/min, so go one per ~1.1s.
+  // The Discogs client throttles itself to stay under the rate limit.
   for (const [i, v] of items.entries()) {
     try { Object.assign(v, await getMarketStats(v.id)); } catch (e) { console.error(`price failed for ${v.id}: ${e}`); }
     if (i % 10 === 0) console.error(`prices ${i + 1}/${items.length}`);
-    await sleep(1100);
   }
 }
 

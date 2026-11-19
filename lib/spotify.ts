@@ -57,6 +57,10 @@ export async function getTaste(token: string): Promise<Taste> {
   const n = top.items.length || 1;
   return {
     artists: top.items.map((a: any, i: number) => ({ name: a.name, weight: 1 - i / n })),
-    albums: saved.items.map((i: any) => ({ title: i.album.name, artist: i.album.artists[0].name })),
+    albums: saved.items.map((i: any) => ({
+      title: i.album.name,
+      artist: i.album.artists[0].name,
+      cover: i.album.images?.[1]?.url ?? i.album.images?.[0]?.url, // ~300px album art, used when Discogs has none
+    })),
   };
 }

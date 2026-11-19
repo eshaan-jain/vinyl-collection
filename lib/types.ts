@@ -14,7 +14,7 @@ export interface Vinyl {
 
 export interface Taste {
   artists: { name: string; weight: number }[];
-  albums: { title: string; artist: string }[];
+  albums: { title: string; artist: string; cover?: string }[];
 }
 
 /** One place you could buy a record. "live" = real price; "link" = just a search link. */

@@ -9,21 +9,24 @@ import { discogsAdapter } from "./adapters/discogs";
 import { linkAdapters } from "./adapters/links";
 import type { StoreAdapter } from "./adapters/types";
 import { config } from "./config";
+import { cleanTitle, goodCover, norm } from "./matching";
 import { loadTaste } from "./taste";
 
-const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
 const live = !!process.env.DISCOGS_TOKEN;
 const adapters: StoreAdapter[] = [...(live ? [discogsAdapter] : []), ...linkAdapters];
 
 const collection: CollectionFile = JSON.parse(readFileSync(new URL("../data/collection.json", import.meta.url), "utf8"));
-const owned = new Set(collection.items.map((v) => norm(v.artist + v.title)));
+const key = (artist: string, title: string) => norm(artist) + "|" + norm(cleanTitle(title));
+const owned = new Set(collection.items.map((v) => key(v.artist, v.title)));
 const { taste, source: tasteSource } = await loadTaste();
 const weight = (artist: string) => taste.artists.find((a) => norm(a.name) === norm(artist))?.weight ?? 0.1;
 
 const cost = (o: Offer) => (o.price ?? Infinity) + (o.local ? -config.localPickupBonus : config.shippingEstimate);
 
+// Skip owned albums, and collapse standard + deluxe versions of the same album into one candidate.
+const seen = new Set<string>();
 const candidates = taste.albums
-  .filter((a) => !owned.has(norm(a.artist + a.title)))
+  .filter((a) => !owned.has(key(a.artist, a.title)) && !seen.has(key(a.artist, a.title)) && seen.add(key(a.artist, a.title)))
   .sort((a, b) => weight(b.artist) - weight(a.artist))
   .slice(0, config.maxPicks);
 
@@ -38,7 +41,7 @@ for (const c of candidates) {
   const w = weight(c.artist);
   if (release) wantIds.push(release.id);
   picks.push({
-    artist: c.artist, title: c.title, cover: release?.cover, score: w, best, offers,
+    artist: c.artist, title: c.title, cover: goodCover(release?.cover) ?? c.cover, score: w, best, offers,
     reason: w > 0.5 ? `${c.artist} is one of your most-played artists, and you've saved this album.` : "You've saved this album but don't own it on vinyl.",
   });
 }
