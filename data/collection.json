@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-11-17T00:00:00.000Z",
+  "source": "sample",
+  "items": [
+    { "id": 1, "title": "Blonde", "artist": "Frank Ocean", "year": 2016, "label": "Boys Don't Cry", "format": "2xLP, Album", "cover": "https://placehold.co/300x300/1c1917/f5f5f4?text=Blonde", "url": "https://www.discogs.com", "lowestPrice": 95, "forSale": 40 },
+    { "id": 2, "title": "To Pimp a Butterfly", "artist": "Kendrick Lamar", "year": 2015, "label": "Top Dawg", "format": "2xLP, Album", "cover": "https://placehold.co/300x300/1c1917/f5f5f4?text=TPAB", "url": "https://www.discogs.com", "lowestPrice": 48, "forSale": 120 },
+    { "id": 3, "title": "In Rainbows", "artist": "Radiohead", "year": 2007, "label": "XL Recordings", "format": "2xLP, Album", "cover": "https://placehold.co/300x300/1c1917/f5f5f4?text=In+Rainbows", "url": "https://www.discogs.com", "lowestPrice": 38, "forSale": 210 }
+  ]
+}

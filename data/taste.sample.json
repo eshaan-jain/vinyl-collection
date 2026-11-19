@@ -1,0 +1,14 @@
+{
+  "artists": [
+    { "name": "Frank Ocean", "weight": 1 },
+    { "name": "Tyler, The Creator", "weight": 0.8 },
+    { "name": "Radiohead", "weight": 0.7 },
+    { "name": "Mac Miller", "weight": 0.6 }
+  ],
+  "albums": [
+    { "title": "Flower Boy", "artist": "Tyler, The Creator" },
+    { "title": "Swimming", "artist": "Mac Miller" },
+    { "title": "OK Computer", "artist": "Radiohead" },
+    { "title": "Channel Orange", "artist": "Frank Ocean" }
+  ]
+}

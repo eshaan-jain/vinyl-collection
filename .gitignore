@@ -1,0 +1,7 @@
+node_modules
+.next
+site/out
+.env
+.env.local
+.spotify-token.json
+data/taste.json

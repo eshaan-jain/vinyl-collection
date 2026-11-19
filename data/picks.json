@@ -1,0 +1,203 @@
+{
+  "generatedAt": "2026-11-17T14:08:00.159Z",
+  "source": "sample",
+  "tasteSource": "sample",
+  "picks": [
+    {
+      "artist": "Frank Ocean",
+      "title": "Channel Orange",
+      "score": 1,
+      "best": null,
+      "offers": [
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Frank%20Ocean%20Channel%20Orange",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Frank%20Ocean%20Channel%20Orange",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Frank%20Ocean%20Channel%20Orange",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Frank%20Ocean%20Channel%20Orange",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Frank%20Ocean%20Channel%20Orange%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "Frank Ocean is one of your most-played artists, and you've saved this album."
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "title": "Flower Boy",
+      "score": 0.8,
+      "best": null,
+      "offers": [
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Tyler%2C%20The%20Creator%20Flower%20Boy",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Tyler%2C%20The%20Creator%20Flower%20Boy",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Tyler%2C%20The%20Creator%20Flower%20Boy",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Tyler%2C%20The%20Creator%20Flower%20Boy",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Tyler%2C%20The%20Creator%20Flower%20Boy%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "Tyler, The Creator is one of your most-played artists, and you've saved this album."
+    },
+    {
+      "artist": "Radiohead",
+      "title": "OK Computer",
+      "score": 0.7,
+      "best": null,
+      "offers": [
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Radiohead%20OK%20Computer",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Radiohead%20OK%20Computer",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Radiohead%20OK%20Computer",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Radiohead%20OK%20Computer",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Radiohead%20OK%20Computer%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "Radiohead is one of your most-played artists, and you've saved this album."
+    },
+    {
+      "artist": "Mac Miller",
+      "title": "Swimming",
+      "score": 0.6,
+      "best": null,
+      "offers": [
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Mac%20Miller%20Swimming",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Mac%20Miller%20Swimming",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Mac%20Miller%20Swimming",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Mac%20Miller%20Swimming",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Mac%20Miller%20Swimming%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "Mac Miller is one of your most-played artists, and you've saved this album."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "vinyl",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "tsx scripts/sync-collection.ts",
+    "recommend": "tsx recommender/run.ts",
+    "spotify:login": "tsx recommender/spotify-login.ts",
+    "mcp": "tsx mcp/server.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

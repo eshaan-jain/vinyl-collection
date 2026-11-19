@@ -1,0 +1,68 @@
+name: Sync & deploy
+
+# Manual only: click "Run workflow" in the Actions tab. No schedule.
+# Also redeploys when you push site/ or data/ changes (e.g. after running the recommender locally).
+on:
+  workflow_dispatch:
+    inputs:
+      sync:
+        description: "Pull my latest collection from Discogs first"
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths: ["site/**", "data/**", "lib/types.ts"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.event_name == 'workflow_dispatch' && inputs.sync
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: npm run sync
+        env:
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+          DISCOGS_USERNAME: ${{ vars.DISCOGS_USERNAME }}
+      - name: Commit updated collection
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/collection.json
+          git diff --staged --quiet || git commit -m "Sync collection from Discogs"
+          git push
+
+  deploy:
+    needs: [sync]
+    if: ${{ !cancelled() && (needs.sync.result == 'success' || needs.sync.result == 'skipped') }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4          # fresh checkout picks up the sync commit
+        with: { ref: main }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/configure-pages@v5
+      - run: npm ci
+        working-directory: site
+      - run: npm run build
+        working-directory: site
+        env:
+          NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: site/out }
+      - id: deployment
+        uses: actions/deploy-pages@v4
