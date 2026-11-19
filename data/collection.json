@@ -1,9 +1,71 @@
 {
-  "generatedAt": "2026-11-17T00:00:00.000Z",
-  "source": "sample",
+  "generatedAt": "2026-11-19T22:16:03.783Z",
+  "source": "discogs",
   "items": [
-    { "id": 1, "title": "Blonde", "artist": "Frank Ocean", "year": 2016, "label": "Boys Don't Cry", "format": "2xLP, Album", "cover": "https://placehold.co/300x300/1c1917/f5f5f4?text=Blonde", "url": "https://www.discogs.com", "lowestPrice": 95, "forSale": 40 },
-    { "id": 2, "title": "To Pimp a Butterfly", "artist": "Kendrick Lamar", "year": 2015, "label": "Top Dawg", "format": "2xLP, Album", "cover": "https://placehold.co/300x300/1c1917/f5f5f4?text=TPAB", "url": "https://www.discogs.com", "lowestPrice": 48, "forSale": 120 },
-    { "id": 3, "title": "In Rainbows", "artist": "Radiohead", "year": 2007, "label": "XL Recordings", "format": "2xLP, Album", "cover": "https://placehold.co/300x300/1c1917/f5f5f4?text=In+Rainbows", "url": "https://www.discogs.com", "lowestPrice": 38, "forSale": 210 }
+    {
+      "id": 27356088,
+      "title": "2014 Forest Hills Drive",
+      "artist": "J. Cole",
+      "year": 2023,
+      "label": "Interscope Records",
+      "format": "Vinyl, LP, Album, Reissue",
+      "cover": "https://i.discogs.com/N9gcCdG7P67vf4RHcgzAQk7d7ygV2Nr6ZCZMFnhLZso/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU2/MDg4LTE2ODkwMjAw/MTQtNDMwNS5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/27356088",
+      "dateAdded": "2026-11-19T13:59:26-08:00",
+      "lowestPrice": 20.98,
+      "forSale": 48
+    },
+    {
+      "id": 36239401,
+      "title": "Older (and Wiser)",
+      "artist": "Lizzy McAlpine",
+      "year": 2026,
+      "label": "RCA",
+      "format": "Vinyl, LP, Album, Deluxe Edition",
+      "cover": "https://i.discogs.com/fQNvT0GpsFsZjZAbMN3sXSa6FBDxh-iaai0M2YvCnOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjM5/NDAxLTE3Njg4MjYy/OTUtNDA3Mi5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/36239401",
+      "dateAdded": "2026-11-19T13:58:34-08:00",
+      "lowestPrice": 24,
+      "forSale": 41
+    },
+    {
+      "id": 37593093,
+      "title": "You Seem Pretty Sad For A Girl So In Love",
+      "artist": "Olivia Rodrigo",
+      "year": 2026,
+      "label": "Geffen Records",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/4GMZvxDICEQ1xgrRUUH3hTzyFP30VViMK95oJoVTnS0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTkz/MDkzLTE3ODg4MDY3/ODUtMzIzNS5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/37593093",
+      "dateAdded": "2026-11-19T13:58:09-08:00",
+      "lowestPrice": 23.95,
+      "forSale": 119
+    },
+    {
+      "id": 402288,
+      "title": "Claudine",
+      "artist": "Claudine Longet",
+      "year": 1967,
+      "label": "A&M Records",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/iIc7x1EJywAIkFoL-ccSDYVgvCH_eRdmpVtKrBmfqbE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjI4/OC0xMzY3Mjc1NjMw/LTg4NzMuanBlZw.jpeg",
+      "url": "https://www.discogs.com/release/402288",
+      "dateAdded": "2026-11-19T13:57:30-08:00",
+      "lowestPrice": 1.87,
+      "forSale": 78
+    },
+    {
+      "id": 3269684,
+      "title": "Camp",
+      "artist": "Childish Gambino",
+      "year": 2011,
+      "label": "Glassnote Entertainment Group LLC",
+      "format": "Vinyl, LP, Album, Limited Edition",
+      "cover": "https://i.discogs.com/uE2r7QX_7gZnvR4Ev0C0_M6ubnKdpjkdbrUcZ-HHiPE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk2/ODQtMTYyNjMzNTQw/MS04Mjk4LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/3269684",
+      "dateAdded": "2026-11-19T13:56:48-08:00",
+      "lowestPrice": 33.56,
+      "forSale": 9
+    }
   ]
 }
