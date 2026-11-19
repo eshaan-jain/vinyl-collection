@@ -12,6 +12,10 @@ site/          static Next.js site (My Vinyl + Picks tabs), reads data/*.json at
 .github/       one manual workflow: sync from Discogs → build → deploy to GitHub Pages
 ```
 
+## One-command refresh
+`npm run refresh` = pull → sync collection → recommend → commit → push (the push redeploys the site).
+Options: `npm run refresh -- --no-prices` (faster sync), `npm run refresh -- --no-push` (commit only).
+
 ## Adding a record
 Add it in Discogs (the mobile app can scan the barcode). Then either run the **Sync & deploy**
 workflow (Actions tab → Run workflow) or locally `npm run sync` and push.
