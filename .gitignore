@@ -5,3 +5,4 @@ site/out
 .env.local
 .spotify-token.json
 data/taste.json
+data/web-offers.backup.json

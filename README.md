@@ -46,6 +46,18 @@ and expire after 14 days. The site marks them "web price checked <date>".
     "note": "free shipping over $65", "checkedAt": "2026-11-19T20:00:00Z" } ] }
 ```
 
+### Headless web hunt (`npm run hunt`)
+Runs Claude Code non-interactively (`claude -p`) with the repo-local skill in `.claude/skills/vinyl-web-hunt/`.
+Needs the Claude Code CLI installed and logged in; uses your Claude plan's usage. Claude may only read files, search/fetch the web,
+and edit `data/web-offers.json`; it never runs git or commits. Afterwards the script validates the file (restoring the previous one if broken)
+and runs `npm run merge-web`.
+```
+npm run hunt                       # up to 6 picks, 15 minute limit
+npm run hunt -- --limit 3 --minutes 10
+npm run refresh -- --web           # pull, sync, recommend, hunt, commit, push
+```
+Review with `git diff data/` before pushing if you like (`npm run refresh -- --web --no-push`).
+
 ## MCP server
 `npm run mcp`, or add to Claude Desktop:
 ```json

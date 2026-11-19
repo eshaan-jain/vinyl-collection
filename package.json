@@ -7,6 +7,7 @@
     "sync": "tsx scripts/sync-collection.ts",
     "recommend": "tsx recommender/run.ts",
     "refresh": "tsx scripts/refresh.ts",
+    "hunt": "tsx scripts/hunt.ts",
     "merge-web": "tsx scripts/merge-web-offers.ts",
     "spotify:login": "tsx recommender/spotify-login.ts",
     "mcp": "tsx mcp/server.ts",
