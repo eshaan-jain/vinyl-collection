@@ -15,10 +15,10 @@ export default function Picks() {
             <h3 style={{ margin: 0 }}>{p.title}</h3>
             <div className="meta">{p.artist}</div>
             <p>{p.reason}</p>
-            {p.best && <div className="price">Best: ${p.best.price}{p.best.condition ? ` (${p.best.condition})` : ""} at {p.best.store}{p.best.local ? " (local pickup)" : " + shipping"}</div>}
+            {p.best && <div className="price">Best: ${p.best.price}{p.best.condition ? ` (${p.best.condition})` : ""} at {p.best.store}{p.best.local ? " (local pickup)" : " + shipping"}{p.best.kind === "web" && p.best.checkedAt ? <span className="meta"> · web price checked {new Date(p.best.checkedAt).toLocaleDateString("en-US")}</span> : null}</div>}
             <div className="links">
               {p.offers.map((o) => (
-                <a key={o.store} href={o.url} target="_blank" rel="noreferrer" className={o === p.best ? "best" : ""}>
+                <a key={o.store + o.url} href={o.url} title={o.checkedAt ? `Price checked ${new Date(o.checkedAt).toLocaleDateString("en-US")}` : undefined} target="_blank" rel="noreferrer" className={o === p.best ? "best" : ""}>
                   {o.store}{o.price != null ? ` · $${o.price}` : ""}{o.condition ? ` (${o.condition})` : ""}
                 </a>
               ))}

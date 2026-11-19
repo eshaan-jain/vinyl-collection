@@ -2,15 +2,17 @@
 //  - builds your taste profile, skips albums you own, asks every store adapter,
 //  - writes data/picks.json (the site's "Picks" tab), optionally adds picks to your Discogs wantlist.
 import "../lib/env"; // loads .env
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { addToWantlist } from "../lib/discogs";
-import type { CollectionFile, Offer, Pick, PicksFile } from "../lib/types";
+import type { CollectionFile, Pick, PicksFile } from "../lib/types";
 import { discogsAdapter } from "./adapters/discogs";
 import { linkAdapters } from "./adapters/links";
 import { shugaAdapter } from "./adapters/shuga";
 import type { StoreAdapter } from "./adapters/types";
 import { config } from "./config";
 import { cleanTitle, goodCover, norm } from "./matching";
+import { chooseBest } from "./rank";
+import { mergeWebOffers } from "./web-offers";
 import { loadTaste } from "./taste";
 
 const live = !!process.env.DISCOGS_TOKEN;
@@ -21,8 +23,6 @@ const key = (artist: string, title: string) => norm(artist) + "|" + norm(cleanTi
 const owned = new Set(collection.items.map((v) => key(v.artist, v.title)));
 const { taste, source: tasteSource } = await loadTaste();
 const weight = (artist: string) => taste.artists.find((a) => norm(a.name) === norm(artist))?.weight ?? 0.1;
-
-const cost = (o: Offer) => (o.price ?? Infinity) + (o.local ? -config.localPickupBonus : config.shippingEstimate);
 
 // Skip owned albums, and collapse standard + deluxe versions of the same album into one candidate.
 const seen = new Set<string>();
@@ -38,7 +38,7 @@ for (const c of candidates) {
   const ok = results.flatMap((r, i) => (r.status === "fulfilled" ? [r.value] : (console.error(`${adapters[i].name}: ${r.reason}`), [])));
   const offers = ok.flatMap((r) => r.offers);
   const release = ok.find((r) => r.release)?.release;
-  const best = offers.filter((o) => o.kind === "live" && o.price != null && o.inStock !== false).sort((a, b) => cost(a) - cost(b))[0] ?? null;
+  const best = chooseBest(offers);
   const w = weight(c.artist);
   if (release) wantIds.push(release.id);
   picks.push({
@@ -47,6 +47,14 @@ for (const c of candidates) {
   });
 }
 picks.sort((a, b) => b.score - a.score);
+
+// Keep offers from Claude's web research (data/web-offers.json) across re-runs.
+const webFile = new URL("../data/web-offers.json", import.meta.url);
+if (existsSync(webFile)) {
+  const m = mergeWebOffers(picks, JSON.parse(readFileSync(webFile, "utf8")));
+  picks.splice(0, picks.length, ...m.picks);
+  console.error(`Merged ${m.used} web offer(s)` + (m.rejected.length ? `, rejected ${m.rejected.length}` : ""));
+}
 
 const out: PicksFile = { generatedAt: new Date().toISOString(), source: live ? "live" : "sample", tasteSource, picks };
 writeFileSync(new URL("../data/picks.json", import.meta.url), JSON.stringify(out, null, 2) + "\n");

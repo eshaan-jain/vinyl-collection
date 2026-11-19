@@ -30,6 +30,18 @@ workflow (Actions tab → Run workflow) or locally `npm run sync` and push.
   **Dusty Groove** and **Reckless** are link-only on purpose: their robots.txt disallows AI crawlers and reserves rights against AI use, so we don't scrape them.
   Bandcamp and eBay are links too.
 
+## Open-web search (Claude does the researching)
+`data/web-offers.json` holds prices Claude finds on other retailers. The `vinyl-web-hunt` skill (see below) researches the
+picks that need it, **verifies each price on the retailer's own page**, writes the file, then runs `npm run merge-web`
+(also run automatically by `npm run recommend`). Offers are validated (https only, positive price, no Dusty Groove/Reckless)
+and expire after 14 days. The site marks them "web price checked <date>".
+```json
+{ "generatedAt": "...", "offers": [
+  { "artist": "Lauryn Hill", "title": "The Miseducation of Lauryn Hill", "store": "Example Records",
+    "url": "https://example.com/product", "price": 29.99, "condition": "New",
+    "note": "free shipping over $65", "checkedAt": "2026-11-19T20:00:00Z" } ] }
+```
+
 ## MCP server
 `npm run mcp`, or add to Claude Desktop:
 ```json

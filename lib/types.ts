@@ -20,12 +20,14 @@ export interface Taste {
 /** One place you could buy a record. "live" = real price; "link" = just a search link. */
 export interface Offer {
   store: string;
-  kind: "live" | "link";
+  kind: "live" | "link" | "web";  // web = found by Claude's web research (see data/web-offers.json)
   url: string;
   price: number | null;      // USD, before shipping
   condition?: string;
   inStock: boolean | "unknown";
   local: boolean;            // Chicago store (pickup possible)
+  checkedAt?: string;        // when a web offer's price was last checked
+  note?: string;
 }
 
 export interface Pick {
