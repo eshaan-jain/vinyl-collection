@@ -1,8 +1,9 @@
 // Spotify Web API helpers for the recommender (runs locally, not on the website).
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { fileURLToPath } from "node:url";
 import type { Taste } from "./types";
 
-export const TOKEN_FILE = new URL("../.spotify-token.json", import.meta.url).pathname;
+export const TOKEN_FILE = fileURLToPath(new URL("../.spotify-token.json", import.meta.url)) // not .pathname: that keeps %20 for spaces in folder names;
 export const REDIRECT_URI = "http://127.0.0.1:8888/callback";
 const SCOPES = "user-top-read user-library-read";
 
