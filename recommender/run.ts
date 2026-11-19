@@ -7,13 +7,14 @@ import { addToWantlist } from "../lib/discogs";
 import type { CollectionFile, Offer, Pick, PicksFile } from "../lib/types";
 import { discogsAdapter } from "./adapters/discogs";
 import { linkAdapters } from "./adapters/links";
+import { shugaAdapter } from "./adapters/shuga";
 import type { StoreAdapter } from "./adapters/types";
 import { config } from "./config";
 import { cleanTitle, goodCover, norm } from "./matching";
 import { loadTaste } from "./taste";
 
 const live = !!process.env.DISCOGS_TOKEN;
-const adapters: StoreAdapter[] = [...(live ? [discogsAdapter] : []), ...linkAdapters];
+const adapters: StoreAdapter[] = [...(live ? [discogsAdapter] : []), shugaAdapter, ...linkAdapters];
 
 const collection: CollectionFile = JSON.parse(readFileSync(new URL("../data/collection.json", import.meta.url), "utf8"));
 const key = (artist: string, title: string) => norm(artist) + "|" + norm(cleanTitle(title));

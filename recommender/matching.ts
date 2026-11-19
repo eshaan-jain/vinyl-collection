@@ -16,11 +16,11 @@ export function cleanTitle(t: string): string {
 export const isFancy = (s: string) =>
   /deluxe|expanded|anniversary|box ?set|picture disc|collector|super|limited|special edition|bundle|signed|numbered|test pressing|promo|club edition|zoetrope|\b[3-9] ?x ?LP/i.test(s);
 
-const sameArtist = (a: string, b: string) => {
+export const sameArtist = (a: string, b: string) => {
   const x = norm(a), y = norm(b);
   return x === y || x.includes(y) || y.includes(x);
 };
-const sameTitle = (hit: string, wanted: string) => {
+export const sameTitle = (hit: string, wanted: string) => {
   const h = norm(cleanTitle(hit)), w = norm(cleanTitle(wanted));
   return h === w || (w.length > 5 && h.startsWith(w));
 };

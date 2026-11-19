@@ -26,7 +26,9 @@ workflow (Actions tab → Run workflow) or locally `npm run sync` and push.
 - `npm run spotify:login` once (needs Spotify Premium for the dev app), then `npm run recommend`.
 - No Spotify? Put your own `{artists, albums}` in `data/taste.json` (same shape as `data/taste.sample.json`).
 - `npm run recommend -- --wantlist` also adds the picks to your Discogs wantlist.
-- Stores live in `recommender/adapters/`. Right now only Discogs has live prices; Chicago stores are link-only until verified.
+- Stores live in `recommender/adapters/`. Live prices: **Discogs** and **Shuga Records** (Shopify public search; its robots.txt allows it; read-only, ~1 request/sec).
+  **Dusty Groove** and **Reckless** are link-only on purpose: their robots.txt disallows AI crawlers and reserves rights against AI use, so we don't scrape them.
+  Bandcamp and eBay are links too.
 
 ## MCP server
 `npm run mcp`, or add to Claude Desktop:
