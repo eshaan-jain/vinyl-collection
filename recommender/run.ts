@@ -1,6 +1,7 @@
 // Usage: npm run recommend [-- --wantlist]
 //  - builds your taste profile, skips albums you own, asks every store adapter,
 //  - writes data/picks.json (the site's "Picks" tab), optionally adds picks to your Discogs wantlist.
+import "../lib/env"; // loads .env
 import { readFileSync, writeFileSync } from "node:fs";
 import { addToWantlist } from "../lib/discogs";
 import type { CollectionFile, Offer, Pick, PicksFile } from "../lib/types";

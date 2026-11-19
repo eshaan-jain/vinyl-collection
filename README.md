@@ -17,7 +17,7 @@ Add it in Discogs (the mobile app can scan the barcode). Then either run the **S
 workflow (Actions tab → Run workflow) or locally `npm run sync` and push.
 
 ## Setup
-1. `npm install`; copy `.env.example` → `.env` and fill in Discogs values (`set -a; source .env; set +a`, or use your shell's env).
+1. `npm install`; copy `.env.example` → `.env` and fill in your values (scripts load `.env` automatically; needs Node 20.12+).
 2. Repo settings → Pages → Source: **GitHub Actions**. Add secret `DISCOGS_TOKEN` and variable `DISCOGS_USERNAME`.
    (Pages on a private repo needs a paid GitHub plan; otherwise make the repo public or host on Vercel.)
 3. Actions → **Sync & deploy** → Run workflow.

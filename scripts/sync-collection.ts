@@ -1,5 +1,6 @@
 // Pull your Discogs collection into data/collection.json.
 // Usage: npm run sync [-- --no-prices]
+import "../lib/env"; // loads .env
 import { writeFileSync } from "node:fs";
 import { getCollection, getMarketStats } from "../lib/discogs";
 import type { CollectionFile } from "../lib/types";

@@ -1,4 +1,5 @@
 // One-time local login: opens a tiny server on 127.0.0.1:8888, saves a refresh token to .spotify-token.json
+import "../lib/env"; // loads .env
 import { createServer } from "node:http";
 import { randomBytes } from "node:crypto";
 import { authUrl, exchangeCode } from "../lib/spotify";
