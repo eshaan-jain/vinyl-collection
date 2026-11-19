@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:43:54.073Z",
+  "generatedAt": "2026-11-19T22:49:16.811Z",
   "source": "live",
   "tasteSource": "spotify",
   "picks": [
@@ -26,6 +26,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Vince%20Staples%20Vince%20Staples&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Vince%20Staples%20Vince%20Staples",
@@ -37,14 +45,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Vince%20Staples%20Vince%20Staples",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Vince%20Staples%20Vince%20Staples",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -84,6 +84,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Childish%20Gambino%20EP%20(2011%20Re-Release)&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Childish%20Gambino%20EP%20(2011%20Re-Release)",
@@ -95,14 +103,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Childish%20Gambino%20EP%20(2011%20Re-Release)",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Childish%20Gambino%20EP%20(2011%20Re-Release)",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -149,6 +149,15 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "live",
+          "local": true,
+          "inStock": true,
+          "url": "https://www.shugarecords.com/products/childishgambinobecausetheinternet2013-new2lprecord2020glassnoteeuropeimportvinyl-hiphop",
+          "price": 41.99,
+          "condition": "New"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Childish%20Gambino%20Because%20the%20Internet",
@@ -160,14 +169,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Childish%20Gambino%20Because%20the%20Internet",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Childish%20Gambino%20Because%20the%20Internet",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -214,6 +215,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=6LACK%20Since%20I%20Have%20A%20Lover&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%206LACK%20Since%20I%20Have%20A%20Lover",
@@ -225,14 +234,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%206LACK%20Since%20I%20Have%20A%20Lover",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%206LACK%20Since%20I%20Have%20A%20Lover",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -279,6 +280,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=J.%20Cole%20The%20Fall-Off&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20J.%20Cole%20The%20Fall-Off",
@@ -290,14 +299,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20J.%20Cole%20The%20Fall-Off",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20J.%20Cole%20The%20Fall-Off",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -344,6 +345,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Action%20Bronson%20PLANET%20FROG&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Action%20Bronson%20PLANET%20FROG",
@@ -355,14 +364,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Action%20Bronson%20PLANET%20FROG",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Action%20Bronson%20PLANET%20FROG",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -409,6 +410,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=spill%20tab%20ANGIE&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20spill%20tab%20ANGIE",
@@ -420,14 +429,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20spill%20tab%20ANGIE",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20spill%20tab%20ANGIE",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -457,12 +458,13 @@
       "cover": "https://i.discogs.com/ei3NRSkqM0gxFf0HrF9DI4CX9K6NoD_SlWUlukbWC2I/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NjA3OTk5/MzgtNjU1MC5qcGVn.jpeg",
       "score": 0.30000000000000004,
       "best": {
-        "store": "Discogs",
+        "store": "Shuga Records (Chicago)",
         "kind": "live",
-        "url": "https://www.discogs.com/sell/release/35207368",
-        "price": 32,
+        "local": true,
         "inStock": true,
-        "local": false
+        "url": "https://www.shugarecords.com/products/olivia-dean-the-art-of-loving-2025-new-cd-album-2026-island-blu-ray-soul-indie-pop",
+        "price": 25.99,
+        "condition": "New"
       },
       "offers": [
         {
@@ -472,6 +474,15 @@
           "price": 32,
           "inStock": true,
           "local": false
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "live",
+          "local": true,
+          "inStock": true,
+          "url": "https://www.shugarecords.com/products/olivia-dean-the-art-of-loving-2025-new-cd-album-2026-island-blu-ray-soul-indie-pop",
+          "price": 25.99,
+          "condition": "New"
         },
         {
           "store": "Dusty Groove (Chicago)",
@@ -485,14 +496,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Olivia%20Dean%20The%20Art%20of%20Loving",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Olivia%20Dean%20The%20Art%20of%20Loving",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -539,6 +542,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Kanye%20West%20Graduation&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Kanye%20West%20Graduation",
@@ -550,14 +561,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Kanye%20West%20Graduation",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Kanye%20West%20Graduation",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -604,6 +607,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Quiet%20Light%20Blue%20Angel%20Sparkling%20Silver%202&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Quiet%20Light%20Blue%20Angel%20Sparkling%20Silver%202",
@@ -615,14 +626,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Quiet%20Light%20Blue%20Angel%20Sparkling%20Silver%202",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Quiet%20Light%20Blue%20Angel%20Sparkling%20Silver%202",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -669,6 +672,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Margo%20Guryan%2028%20Demos&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Margo%20Guryan%2028%20Demos",
@@ -680,14 +691,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Margo%20Guryan%2028%20Demos",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Margo%20Guryan%2028%20Demos",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -719,6 +722,14 @@
       "best": null,
       "offers": [
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Samara%20Cyn%20Detour&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Samara%20Cyn%20Detour",
@@ -730,14 +741,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Samara%20Cyn%20Detour",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Samara%20Cyn%20Detour",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -766,8 +769,25 @@
       "title": "The Miseducation of Lauryn Hill",
       "cover": "https://i.scdn.co/image/ab67616d00001e02e08b1250db5f75643f1508c9",
       "score": 0.1,
-      "best": null,
+      "best": {
+        "store": "Shuga Records (Chicago)",
+        "kind": "live",
+        "local": true,
+        "inStock": true,
+        "url": "https://www.shugarecords.com/products/lauryn-hill-the-miseducation-of-lauryn-hill-1998-new-2-lp-record-2014-ruffhouse-columbia-vinyl-hip-hop",
+        "price": 32.99,
+        "condition": "New"
+      },
       "offers": [
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "live",
+          "local": true,
+          "inStock": true,
+          "url": "https://www.shugarecords.com/products/lauryn-hill-the-miseducation-of-lauryn-hill-1998-new-2-lp-record-2014-ruffhouse-columbia-vinyl-hip-hop",
+          "price": 32.99,
+          "condition": "New"
+        },
         {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
@@ -780,14 +800,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Ms.%20Lauryn%20Hill%20The%20Miseducation%20of%20Lauryn%20Hill",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Ms.%20Lauryn%20Hill%20The%20Miseducation%20of%20Lauryn%20Hill",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -827,6 +839,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Julian%20Lage%20World's%20Fair&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Julian%20Lage%20World's%20Fair",
@@ -838,14 +858,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Julian%20Lage%20World's%20Fair",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Julian%20Lage%20World's%20Fair",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -892,6 +904,14 @@
           "local": false
         },
         {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Billie%20Marten%20Dog%20Eared&type=product"
+        },
+        {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Billie%20Marten%20Dog%20Eared",
@@ -903,14 +923,6 @@
           "store": "Reckless Records (Chicago)",
           "kind": "link",
           "url": "https://www.google.com/search?q=site%3Areckless.com%20Billie%20Marten%20Dog%20Eared",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Billie%20Marten%20Dog%20Eared",
           "price": null,
           "inStock": "unknown",
           "local": true
