@@ -1,116 +1,34 @@
 {
-  "generatedAt": "2026-11-17T14:08:00.159Z",
-  "source": "sample",
-  "tasteSource": "sample",
+  "generatedAt": "2026-11-19T22:34:19.323Z",
+  "source": "live",
+  "tasteSource": "spotify",
   "picks": [
     {
-      "artist": "Frank Ocean",
-      "title": "Channel Orange",
-      "score": 1,
-      "best": null,
-      "offers": [
-        {
-          "store": "Dusty Groove (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Frank%20Ocean%20Channel%20Orange",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Reckless Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Areckless.com%20Frank%20Ocean%20Channel%20Orange",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Frank%20Ocean%20Channel%20Orange",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Bandcamp",
-          "kind": "link",
-          "url": "https://bandcamp.com/search?q=Frank%20Ocean%20Channel%20Orange",
-          "price": null,
-          "inStock": "unknown",
-          "local": false
-        },
-        {
-          "store": "eBay",
-          "kind": "link",
-          "url": "https://www.ebay.com/sch/i.html?_nkw=Frank%20Ocean%20Channel%20Orange%20vinyl",
-          "price": null,
-          "inStock": "unknown",
-          "local": false
-        }
-      ],
-      "reason": "Frank Ocean is one of your most-played artists, and you've saved this album."
-    },
-    {
-      "artist": "Tyler, The Creator",
-      "title": "Flower Boy",
-      "score": 0.8,
-      "best": null,
-      "offers": [
-        {
-          "store": "Dusty Groove (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Tyler%2C%20The%20Creator%20Flower%20Boy",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Reckless Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Areckless.com%20Tyler%2C%20The%20Creator%20Flower%20Boy",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Tyler%2C%20The%20Creator%20Flower%20Boy",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Bandcamp",
-          "kind": "link",
-          "url": "https://bandcamp.com/search?q=Tyler%2C%20The%20Creator%20Flower%20Boy",
-          "price": null,
-          "inStock": "unknown",
-          "local": false
-        },
-        {
-          "store": "eBay",
-          "kind": "link",
-          "url": "https://www.ebay.com/sch/i.html?_nkw=Tyler%2C%20The%20Creator%20Flower%20Boy%20vinyl",
-          "price": null,
-          "inStock": "unknown",
-          "local": false
-        }
-      ],
-      "reason": "Tyler, The Creator is one of your most-played artists, and you've saved this album."
-    },
-    {
-      "artist": "Radiohead",
-      "title": "OK Computer",
+      "artist": "Vince Staples",
+      "title": "Vince Staples",
+      "cover": "https://i.discogs.com/963YkQxQoqCC-S6GCRvmqqfEGHORy4D7iLbQi4oa-gE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTAx/NTIzLTE2OTI1NTk5/NjktOTAxMC5qcGVn.jpeg",
       "score": 0.7,
-      "best": null,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/25101523",
+        "price": 34.96,
+        "inStock": true,
+        "local": false
+      },
       "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/25101523",
+          "price": 34.96,
+          "inStock": true,
+          "local": false
+        },
         {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Radiohead%20OK%20Computer",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Vince%20Staples%20Vince%20Staples",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -118,7 +36,7 @@
         {
           "store": "Reckless Records (Chicago)",
           "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Areckless.com%20Radiohead%20OK%20Computer",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Vince%20Staples%20Vince%20Staples",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -126,7 +44,7 @@
         {
           "store": "Shuga Records (Chicago)",
           "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Radiohead%20OK%20Computer",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Vince%20Staples%20Vince%20Staples",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -134,7 +52,7 @@
         {
           "store": "Bandcamp",
           "kind": "link",
-          "url": "https://bandcamp.com/search?q=Radiohead%20OK%20Computer",
+          "url": "https://bandcamp.com/search?q=Vince%20Staples%20Vince%20Staples",
           "price": null,
           "inStock": "unknown",
           "local": false
@@ -142,24 +60,24 @@
         {
           "store": "eBay",
           "kind": "link",
-          "url": "https://www.ebay.com/sch/i.html?_nkw=Radiohead%20OK%20Computer%20vinyl",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Vince%20Staples%20Vince%20Staples%20vinyl",
           "price": null,
           "inStock": "unknown",
           "local": false
         }
       ],
-      "reason": "Radiohead is one of your most-played artists, and you've saved this album."
+      "reason": "Vince Staples is one of your most-played artists, and you've saved this album."
     },
     {
-      "artist": "Mac Miller",
-      "title": "Swimming",
+      "artist": "Childish Gambino",
+      "title": "EP (2011 Re-Release)",
       "score": 0.6,
       "best": null,
       "offers": [
         {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Mac%20Miller%20Swimming",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Childish%20Gambino%20EP%20(2011%20Re-Release)",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -167,7 +85,7 @@
         {
           "store": "Reckless Records (Chicago)",
           "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Areckless.com%20Mac%20Miller%20Swimming",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Childish%20Gambino%20EP%20(2011%20Re-Release)",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -175,7 +93,7 @@
         {
           "store": "Shuga Records (Chicago)",
           "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Mac%20Miller%20Swimming",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Childish%20Gambino%20EP%20(2011%20Re-Release)",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -183,7 +101,7 @@
         {
           "store": "Bandcamp",
           "kind": "link",
-          "url": "https://bandcamp.com/search?q=Mac%20Miller%20Swimming",
+          "url": "https://bandcamp.com/search?q=Childish%20Gambino%20EP%20(2011%20Re-Release)",
           "price": null,
           "inStock": "unknown",
           "local": false
@@ -191,13 +109,812 @@
         {
           "store": "eBay",
           "kind": "link",
-          "url": "https://www.ebay.com/sch/i.html?_nkw=Mac%20Miller%20Swimming%20vinyl",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Childish%20Gambino%20EP%20(2011%20Re-Release)%20vinyl",
           "price": null,
           "inStock": "unknown",
           "local": false
         }
       ],
-      "reason": "Mac Miller is one of your most-played artists, and you've saved this album."
+      "reason": "Childish Gambino is one of your most-played artists, and you've saved this album."
+    },
+    {
+      "artist": "Childish Gambino",
+      "title": "Because the Internet",
+      "cover": "https://i.discogs.com/JE2MWaeSzHdPouA_IDk1W_lInT1I9S0coFL_op7Hf3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTUw/MzEtMTQ0NjkyOTkw/Ny01NjYxLmpwZWc.jpeg",
+      "score": 0.6,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/5595031",
+        "price": 41,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/5595031",
+          "price": 41,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Childish%20Gambino%20Because%20the%20Internet",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Childish%20Gambino%20Because%20the%20Internet",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Childish%20Gambino%20Because%20the%20Internet",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Childish%20Gambino%20Because%20the%20Internet",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Childish%20Gambino%20Because%20the%20Internet%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "Childish Gambino is one of your most-played artists, and you've saved this album."
+    },
+    {
+      "artist": "6LACK",
+      "title": "Since I Have A Lover",
+      "cover": "https://i.discogs.com/F2BCCRX4IBIq8pTyUPlbt8XMWg-7qWf3sr5iMDOkEfI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDAw/NTc1LTE2OTIyOTEw/OTMtNTAyNC5qcGVn.jpeg",
+      "score": 0.55,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/28000575",
+        "price": 26.32,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/28000575",
+          "price": 26.32,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%206LACK%20Since%20I%20Have%20A%20Lover",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%206LACK%20Since%20I%20Have%20A%20Lover",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%206LACK%20Since%20I%20Have%20A%20Lover",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=6LACK%20Since%20I%20Have%20A%20Lover",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=6LACK%20Since%20I%20Have%20A%20Lover%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "6LACK is one of your most-played artists, and you've saved this album."
+    },
+    {
+      "artist": "J. Cole",
+      "title": "The Fall-Off",
+      "cover": "https://st.discogs.com/bdf3a835192a02b560627fa9a717f9787cc62c0f/images/spacer.gif",
+      "score": 0.5,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/38572629",
+        "price": 54.95,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/38572629",
+          "price": 54.95,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20J.%20Cole%20The%20Fall-Off",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20J.%20Cole%20The%20Fall-Off",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20J.%20Cole%20The%20Fall-Off",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=J.%20Cole%20The%20Fall-Off",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=J.%20Cole%20The%20Fall-Off%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Action Bronson",
+      "title": "PLANET FROG",
+      "cover": "https://i.discogs.com/BQ7Y558aP4jNtuPdI0JC5mzOzV8eRsuoRrDz6xIC-kw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTIz/MzU1LTE3ODY1Mzgx/ODEtMjMzMC5qcGVn.jpeg",
+      "score": 0.44999999999999996,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/38123355",
+        "price": 150,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/38123355",
+          "price": 150,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Action%20Bronson%20PLANET%20FROG",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Action%20Bronson%20PLANET%20FROG",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Action%20Bronson%20PLANET%20FROG",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Action%20Bronson%20PLANET%20FROG",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Action%20Bronson%20PLANET%20FROG%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "spill tab",
+      "title": "ANGIE",
+      "cover": "https://i.discogs.com/pdn7SiS6YWSLHQdTcP9vbWWISo4mAf0xXRitilATOkc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDAy/MzA5LTE3NDc0NDg5/MzUtNjEzNC5qcGVn.jpeg",
+      "score": 0.35,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/34002309",
+        "price": 19.72,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/34002309",
+          "price": 19.72,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20spill%20tab%20ANGIE",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20spill%20tab%20ANGIE",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20spill%20tab%20ANGIE",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=spill%20tab%20ANGIE",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=spill%20tab%20ANGIE%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Olivia Dean",
+      "title": "The Art of Loving",
+      "cover": "https://i.discogs.com/ZYsBejf5ctm9o0dQ5az9S6frHc2nbbWBTZ4FZuR2hnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ5/ODI5LTE3OTA5ODMy/NDMtODA0OC5qcGVn.jpeg",
+      "score": 0.30000000000000004,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/35349829",
+        "price": 109.88,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/35349829",
+          "price": 109.88,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Olivia%20Dean%20The%20Art%20of%20Loving",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Olivia%20Dean%20The%20Art%20of%20Loving",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Olivia%20Dean%20The%20Art%20of%20Loving",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Olivia%20Dean%20The%20Art%20of%20Loving",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Olivia%20Dean%20The%20Art%20of%20Loving%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Graduation",
+      "cover": "https://i.discogs.com/kCW_nMlVDBgePGLxJQLVyF-okBhGe0Eh_KtaYgag0Ys/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjYx/NzU1LTE3NTk0MDYy/NTEtNTU5NS5qcGVn.jpeg",
+      "score": 0.1,
+      "best": null,
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/35261755",
+          "price": null,
+          "inStock": false,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Kanye%20West%20Graduation",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Kanye%20West%20Graduation",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Kanye%20West%20Graduation",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Kanye%20West%20Graduation",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Kanye%20West%20Graduation%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Quiet Light",
+      "title": "Blue Angel Sparkling Silver 2",
+      "cover": "https://st.discogs.com/bdf3a835192a02b560627fa9a717f9787cc62c0f/images/spacer.gif",
+      "score": 0.1,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/37912611",
+        "price": 61.49,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/37912611",
+          "price": 61.49,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Quiet%20Light%20Blue%20Angel%20Sparkling%20Silver%202",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Quiet%20Light%20Blue%20Angel%20Sparkling%20Silver%202",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Quiet%20Light%20Blue%20Angel%20Sparkling%20Silver%202",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Quiet%20Light%20Blue%20Angel%20Sparkling%20Silver%202",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Quiet%20Light%20Blue%20Angel%20Sparkling%20Silver%202%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Margo Guryan",
+      "title": "28 Demos",
+      "cover": "https://i.discogs.com/AmGOvZw_zIK0oOCoUJs2f1MrFBCVSf9NJ7AuNXvUdUM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTUz/MjQyLTE3NDMzMDMy/MDktNzUwOC5qcGVn.jpeg",
+      "score": 0.1,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/33553242",
+        "price": 28,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/33553242",
+          "price": 28,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Margo%20Guryan%2028%20Demos",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Margo%20Guryan%2028%20Demos",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Margo%20Guryan%2028%20Demos",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Margo%20Guryan%2028%20Demos",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Margo%20Guryan%2028%20Demos%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Samara Cyn",
+      "title": "Detour",
+      "score": 0.1,
+      "best": null,
+      "offers": [
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Samara%20Cyn%20Detour",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Samara%20Cyn%20Detour",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Samara%20Cyn%20Detour",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Samara%20Cyn%20Detour",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Samara%20Cyn%20Detour%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Ms. Lauryn Hill",
+      "title": "The Miseducation of Lauryn Hill",
+      "score": 0.1,
+      "best": null,
+      "offers": [
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Ms.%20Lauryn%20Hill%20The%20Miseducation%20of%20Lauryn%20Hill",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Ms.%20Lauryn%20Hill%20The%20Miseducation%20of%20Lauryn%20Hill",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Ms.%20Lauryn%20Hill%20The%20Miseducation%20of%20Lauryn%20Hill",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Ms.%20Lauryn%20Hill%20The%20Miseducation%20of%20Lauryn%20Hill",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Ms.%20Lauryn%20Hill%20The%20Miseducation%20of%20Lauryn%20Hill%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Julian Lage",
+      "title": "World's Fair",
+      "cover": "https://i.discogs.com/L0ZY0gkAFPVNXXQkm3C3BAtaTfC21kLhgSMhqFFyiEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzE3/NTA2LTE3NjQxMjcy/NzUtNTkxMC5qcGVn.jpeg",
+      "score": 0.1,
+      "best": null,
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/35717506",
+          "price": null,
+          "inStock": false,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Julian%20Lage%20World's%20Fair",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Julian%20Lage%20World's%20Fair",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Julian%20Lage%20World's%20Fair",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Julian%20Lage%20World's%20Fair",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Julian%20Lage%20World's%20Fair%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Billie Marten",
+      "title": "Dog Eared",
+      "cover": "https://i.discogs.com/rRnJrDgiB1iNh-2pn8Psth8IOg9Y64YhzMoC7BEMg8M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTg0/MDU1LTE3NTI5NDQy/MzItMzgxMC5qcGVn.jpeg",
+      "score": 0.1,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/34584055",
+        "price": 31.54,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/34584055",
+          "price": 31.54,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Billie%20Marten%20Dog%20Eared",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Billie%20Marten%20Dog%20Eared",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Ashugarecords.com%20Billie%20Marten%20Dog%20Eared",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Billie%20Marten%20Dog%20Eared",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Billie%20Marten%20Dog%20Eared%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
     }
   ]
 }
