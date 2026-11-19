@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-19T22:34:19.323Z",
+  "generatedAt": "2026-11-19T22:43:54.073Z",
   "source": "live",
   "tasteSource": "spotify",
   "picks": [
     {
       "artist": "Vince Staples",
       "title": "Vince Staples",
-      "cover": "https://i.discogs.com/963YkQxQoqCC-S6GCRvmqqfEGHORy4D7iLbQi4oa-gE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTAx/NTIzLTE2OTI1NTk5/NjktOTAxMC5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/8XdHUH3jv6j2rgxQU-SVdkYsShN4b0uA-zCPHtsRs0c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc0/OTcxLTE2NjY5NzA0/ODEtNzg2NC5qcGVn.jpeg",
       "score": 0.7,
       "best": {
         "store": "Discogs",
         "kind": "live",
-        "url": "https://www.discogs.com/sell/release/25101523",
-        "price": 34.96,
+        "url": "https://www.discogs.com/sell/release/24974971",
+        "price": 20,
         "inStock": true,
         "local": false
       },
@@ -20,8 +20,8 @@
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/25101523",
-          "price": 34.96,
+          "url": "https://www.discogs.com/sell/release/24974971",
+          "price": 20,
           "inStock": true,
           "local": false
         },
@@ -71,9 +71,18 @@
     {
       "artist": "Childish Gambino",
       "title": "EP (2011 Re-Release)",
+      "cover": "https://i.discogs.com/VyAYdwjZfkEAmcg03XPFkJezNnVZ4aHQWwnIlAc3HKE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTMw/MTE0LTE3NDY3Njkx/MjgtMjY4MS5qcGVn.jpeg",
       "score": 0.6,
       "best": null,
       "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/33930114",
+          "price": null,
+          "inStock": false,
+          "local": false
+        },
         {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
@@ -120,13 +129,13 @@
     {
       "artist": "Childish Gambino",
       "title": "Because the Internet",
-      "cover": "https://i.discogs.com/JE2MWaeSzHdPouA_IDk1W_lInT1I9S0coFL_op7Hf3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTUw/MzEtMTQ0NjkyOTkw/Ny01NjYxLmpwZWc.jpeg",
+      "cover": "https://i.discogs.com/yY2vEsKRhtdEXLd9JY1fisvn0uidu2oMQt2iVS6YLIY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjMz/NDk0LTE2Mzk1MDcw/MzItMzg0Ny5qcGVn.jpeg",
       "score": 0.6,
       "best": {
         "store": "Discogs",
         "kind": "live",
-        "url": "https://www.discogs.com/sell/release/5595031",
-        "price": 41,
+        "url": "https://www.discogs.com/sell/release/16233494",
+        "price": 19.99,
         "inStock": true,
         "local": false
       },
@@ -134,8 +143,8 @@
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/5595031",
-          "price": 41,
+          "url": "https://www.discogs.com/sell/release/16233494",
+          "price": 19.99,
           "inStock": true,
           "local": false
         },
@@ -185,13 +194,13 @@
     {
       "artist": "6LACK",
       "title": "Since I Have A Lover",
-      "cover": "https://i.discogs.com/F2BCCRX4IBIq8pTyUPlbt8XMWg-7qWf3sr5iMDOkEfI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDAw/NTc1LTE2OTIyOTEw/OTMtNTAyNC5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/0C2Qb-hDuofJOGtylmt2zxz3tWqaCUpPLIkp1JyjPAs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU3/NTE4LTE2OTA5MTAx/MTQtODgyMy5qcGVn.jpeg",
       "score": 0.55,
       "best": {
         "store": "Discogs",
         "kind": "live",
-        "url": "https://www.discogs.com/sell/release/28000575",
-        "price": 26.32,
+        "url": "https://www.discogs.com/sell/release/27457518",
+        "price": 15.99,
         "inStock": true,
         "local": false
       },
@@ -199,8 +208,8 @@
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/28000575",
-          "price": 26.32,
+          "url": "https://www.discogs.com/sell/release/27457518",
+          "price": 15.99,
           "inStock": true,
           "local": false
         },
@@ -250,13 +259,13 @@
     {
       "artist": "J. Cole",
       "title": "The Fall-Off",
-      "cover": "https://st.discogs.com/bdf3a835192a02b560627fa9a717f9787cc62c0f/images/spacer.gif",
+      "cover": "https://i.discogs.com/4Of9etqY9aDYLuFwD-NYQEQc95fzwet4lMMQDHlaLfg/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjIw/NDk4LTE3ODM3NTcw/NDctMTI4NC5wbmc.jpeg",
       "score": 0.5,
       "best": {
         "store": "Discogs",
         "kind": "live",
-        "url": "https://www.discogs.com/sell/release/38572629",
-        "price": 54.95,
+        "url": "https://www.discogs.com/sell/release/37620498",
+        "price": 35.9,
         "inStock": true,
         "local": false
       },
@@ -264,8 +273,8 @@
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/38572629",
-          "price": 54.95,
+          "url": "https://www.discogs.com/sell/release/37620498",
+          "price": 35.9,
           "inStock": true,
           "local": false
         },
@@ -315,13 +324,13 @@
     {
       "artist": "Action Bronson",
       "title": "PLANET FROG",
-      "cover": "https://i.discogs.com/BQ7Y558aP4jNtuPdI0JC5mzOzV8eRsuoRrDz6xIC-kw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTIz/MzU1LTE3ODY1Mzgx/ODEtMjMzMC5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/hMTBWkkB2_e58Rs6h91HGQ895a1gXYakLZdZXD4eGGQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODQz/Mjc4LTE3ODY2MTQ2/MzAtNDQ1Mi5qcGVn.jpeg",
       "score": 0.44999999999999996,
       "best": {
         "store": "Discogs",
         "kind": "live",
-        "url": "https://www.discogs.com/sell/release/38123355",
-        "price": 150,
+        "url": "https://www.discogs.com/sell/release/37843278",
+        "price": 188.23,
         "inStock": true,
         "local": false
       },
@@ -329,8 +338,8 @@
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/38123355",
-          "price": 150,
+          "url": "https://www.discogs.com/sell/release/37843278",
+          "price": 188.23,
           "inStock": true,
           "local": false
         },
@@ -445,13 +454,13 @@
     {
       "artist": "Olivia Dean",
       "title": "The Art of Loving",
-      "cover": "https://i.discogs.com/ZYsBejf5ctm9o0dQ5az9S6frHc2nbbWBTZ4FZuR2hnc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ5/ODI5LTE3OTA5ODMy/NDMtODA0OC5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/ei3NRSkqM0gxFf0HrF9DI4CX9K6NoD_SlWUlukbWC2I/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NjA3OTk5/MzgtNjU1MC5qcGVn.jpeg",
       "score": 0.30000000000000004,
       "best": {
         "store": "Discogs",
         "kind": "live",
-        "url": "https://www.discogs.com/sell/release/35349829",
-        "price": 109.88,
+        "url": "https://www.discogs.com/sell/release/35207368",
+        "price": 32,
         "inStock": true,
         "local": false
       },
@@ -459,8 +468,8 @@
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/35349829",
-          "price": 109.88,
+          "url": "https://www.discogs.com/sell/release/35207368",
+          "price": 32,
           "inStock": true,
           "local": false
         },
@@ -510,16 +519,23 @@
     {
       "artist": "Kanye West",
       "title": "Graduation",
-      "cover": "https://i.discogs.com/kCW_nMlVDBgePGLxJQLVyF-okBhGe0Eh_KtaYgag0Ys/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjYx/NzU1LTE3NTk0MDYy/NTEtNTU5NS5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/A2HyEE4p--j6_hAAl5s6tUi1sCOMFkE0uDfB61RB9OE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzg0/ODQ4LTE3NzkyMDMy/MDktMjUzMC5qcGVn.jpeg",
       "score": 0.1,
-      "best": null,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/37384848",
+        "price": 49.45,
+        "inStock": true,
+        "local": false
+      },
       "offers": [
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/35261755",
-          "price": null,
-          "inStock": false,
+          "url": "https://www.discogs.com/sell/release/37384848",
+          "price": 49.45,
+          "inStock": true,
           "local": false
         },
         {
@@ -568,7 +584,7 @@
     {
       "artist": "Quiet Light",
       "title": "Blue Angel Sparkling Silver 2",
-      "cover": "https://st.discogs.com/bdf3a835192a02b560627fa9a717f9787cc62c0f/images/spacer.gif",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02f4dce28b1c871707478538ba",
       "score": 0.1,
       "best": {
         "store": "Discogs",
@@ -633,13 +649,13 @@
     {
       "artist": "Margo Guryan",
       "title": "28 Demos",
-      "cover": "https://i.discogs.com/AmGOvZw_zIK0oOCoUJs2f1MrFBCVSf9NJ7AuNXvUdUM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTUz/MjQyLTE3NDMzMDMy/MDktNzUwOC5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/cfI2hyiXwlK7hBBZStuCZWP36a3lS8MqWF_AjGVVw4o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjAw/NDYyLTE3NTM0NTc4/OTMtMjUzMC5qcGVn.jpeg",
       "score": 0.1,
       "best": {
         "store": "Discogs",
         "kind": "live",
-        "url": "https://www.discogs.com/sell/release/33553242",
-        "price": 28,
+        "url": "https://www.discogs.com/sell/release/33600462",
+        "price": 27.14,
         "inStock": true,
         "local": false
       },
@@ -647,8 +663,8 @@
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/33553242",
-          "price": 28,
+          "url": "https://www.discogs.com/sell/release/33600462",
+          "price": 27.14,
           "inStock": true,
           "local": false
         },
@@ -698,6 +714,7 @@
     {
       "artist": "Samara Cyn",
       "title": "Detour",
+      "cover": "https://i.scdn.co/image/ab67616d00001e023cf5eeb49e6aeafcb1c793d9",
       "score": 0.1,
       "best": null,
       "offers": [
@@ -747,6 +764,7 @@
     {
       "artist": "Ms. Lauryn Hill",
       "title": "The Miseducation of Lauryn Hill",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02e08b1250db5f75643f1508c9",
       "score": 0.1,
       "best": null,
       "offers": [
@@ -796,14 +814,14 @@
     {
       "artist": "Julian Lage",
       "title": "World's Fair",
-      "cover": "https://i.discogs.com/L0ZY0gkAFPVNXXQkm3C3BAtaTfC21kLhgSMhqFFyiEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzE3/NTA2LTE3NjQxMjcy/NzUtNTkxMC5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/lkFR4mAAj4AkPEqNsecc1FuY0OxZUABp2zd3T0j6K9c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjIw/NjM2LTE3ODEzODI3/MzAtNTY5My5qcGVn.jpeg",
       "score": 0.1,
       "best": null,
       "offers": [
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/35717506",
+          "url": "https://www.discogs.com/sell/release/37620636",
           "price": null,
           "inStock": false,
           "local": false
@@ -854,13 +872,13 @@
     {
       "artist": "Billie Marten",
       "title": "Dog Eared",
-      "cover": "https://i.discogs.com/rRnJrDgiB1iNh-2pn8Psth8IOg9Y64YhzMoC7BEMg8M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTg0/MDU1LTE3NTI5NDQy/MzItMzgxMC5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/ceVkTi76aXQ0Squ67DzqK0k2R9-200z779uFUmPOJBg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjA0/NzM3LTE3NTMxMjcz/OTQtNTYwNy5qcGVn.jpeg",
       "score": 0.1,
       "best": {
         "store": "Discogs",
         "kind": "live",
-        "url": "https://www.discogs.com/sell/release/34584055",
-        "price": 31.54,
+        "url": "https://www.discogs.com/sell/release/34604737",
+        "price": 17.83,
         "inStock": true,
         "local": false
       },
@@ -868,8 +886,8 @@
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/34584055",
-          "price": 31.54,
+          "url": "https://www.discogs.com/sell/release/34604737",
+          "price": 17.83,
           "inStock": true,
           "local": false
         },
