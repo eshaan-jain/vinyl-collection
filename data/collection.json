@@ -1,45 +1,106 @@
 {
-  "generatedAt": "2026-11-19T22:16:03.783Z",
+  "generatedAt": "2026-11-20T21:10:38.761Z",
   "source": "discogs",
   "items": [
     {
-      "id": 27356088,
-      "title": "2014 Forest Hills Drive",
-      "artist": "J. Cole",
-      "year": 2023,
-      "label": "Interscope Records",
-      "format": "Vinyl, LP, Album, Reissue",
-      "cover": "https://i.discogs.com/N9gcCdG7P67vf4RHcgzAQk7d7ygV2Nr6ZCZMFnhLZso/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU2/MDg4LTE2ODkwMjAw/MTQtNDMwNS5qcGVn.jpeg",
-      "url": "https://www.discogs.com/release/27356088",
-      "dateAdded": "2026-11-19T13:59:26-08:00",
-      "lowestPrice": 20.98,
-      "forSale": 48
-    },
-    {
-      "id": 36239401,
-      "title": "Older (and Wiser)",
-      "artist": "Lizzy McAlpine",
-      "year": 2026,
-      "label": "RCA",
-      "format": "Vinyl, LP, Album, Deluxe Edition",
-      "cover": "https://i.discogs.com/fQNvT0GpsFsZjZAbMN3sXSa6FBDxh-iaai0M2YvCnOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjM5/NDAxLTE3Njg4MjYy/OTUtNDA3Mi5qcGVn.jpeg",
-      "url": "https://www.discogs.com/release/36239401",
-      "dateAdded": "2026-11-19T13:58:34-08:00",
-      "lowestPrice": 24,
-      "forSale": 41
-    },
-    {
-      "id": 37593093,
-      "title": "You Seem Pretty Sad For A Girl So In Love",
-      "artist": "Olivia Rodrigo",
-      "year": 2026,
-      "label": "Geffen Records",
-      "format": "Vinyl, LP, Album",
-      "cover": "https://i.discogs.com/4GMZvxDICEQ1xgrRUUH3hTzyFP30VViMK95oJoVTnS0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTkz/MDkzLTE3ODg4MDY3/ODUtMzIzNS5qcGVn.jpeg",
-      "url": "https://www.discogs.com/release/37593093",
-      "dateAdded": "2026-11-19T13:58:09-08:00",
-      "lowestPrice": 23.95,
-      "forSale": 119
+      "id": 3269684,
+      "title": "Camp",
+      "artist": "Childish Gambino",
+      "year": 2011,
+      "label": "Glassnote Entertainment Group LLC",
+      "format": "Vinyl, LP, Album, Limited Edition",
+      "cover": "https://i.discogs.com/uE2r7QX_7gZnvR4Ev0C0_M6ubnKdpjkdbrUcZ-HHiPE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk2/ODQtMTYyNjMzNTQw/MS04Mjk4LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/3269684",
+      "dateAdded": "2026-11-19T13:56:48-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Outside",
+          "duration": "4:32"
+        },
+        {
+          "position": "A2",
+          "title": "Fire Fly",
+          "duration": "3:24"
+        },
+        {
+          "position": "A3",
+          "title": "Bonfire",
+          "duration": "3:15"
+        },
+        {
+          "position": "A4",
+          "title": "All The Shine",
+          "duration": "5:46"
+        },
+        {
+          "position": "A5",
+          "title": "Letter Home",
+          "duration": "1:47"
+        },
+        {
+          "position": "B1",
+          "title": "Heartbeat",
+          "duration": "4:32"
+        },
+        {
+          "position": "B2",
+          "title": "Backpackers",
+          "duration": "3:18"
+        },
+        {
+          "position": "B3",
+          "title": "L.E.S.",
+          "duration": "5:21"
+        },
+        {
+          "position": "B4",
+          "title": "Hold You Down",
+          "duration": "4:59"
+        },
+        {
+          "position": "C1",
+          "title": "Kids (Keep Up)",
+          "duration": "4:57"
+        },
+        {
+          "position": "C2",
+          "title": "You See Me",
+          "duration": "3:16"
+        },
+        {
+          "position": "C3",
+          "title": "Sunrise",
+          "duration": "3:42"
+        },
+        {
+          "position": "C4",
+          "title": "That Power",
+          "duration": "7:46"
+        },
+        {
+          "position": "D1",
+          "title": "Freaks And Geeks (Bonus Track)",
+          "duration": "3:39"
+        },
+        {
+          "position": "D2",
+          "title": "My Shine (Bonus Track)",
+          "duration": "3:30"
+        },
+        {
+          "position": "D3",
+          "title": "Not Going Back (Bonus Track)",
+          "duration": "4:38"
+        },
+        {
+          "position": "D4",
+          "title": "Longest Text Message (Bonus Track)",
+          "duration": "3:43"
+        }
+      ],
+      "lowestPrice": 33.56,
+      "forSale": 9
     },
     {
       "id": 402288,
@@ -51,21 +112,327 @@
       "cover": "https://i.discogs.com/iIc7x1EJywAIkFoL-ccSDYVgvCH_eRdmpVtKrBmfqbE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjI4/OC0xMzY3Mjc1NjMw/LTg4NzMuanBlZw.jpeg",
       "url": "https://www.discogs.com/release/402288",
       "dateAdded": "2026-11-19T13:57:30-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "A Man And A Woman (Un Homme Et Une Femme)",
+          "duration": "3:08"
+        },
+        {
+          "position": "A2",
+          "title": "Here, There And Everywhere",
+          "duration": "2:18"
+        },
+        {
+          "position": "A3",
+          "title": "Meditation (Meditacao)",
+          "duration": "3:09"
+        },
+        {
+          "position": "A4",
+          "title": "Tu As Beau Sourire",
+          "duration": "2:43"
+        },
+        {
+          "position": "A5",
+          "title": "A Felicidade",
+          "duration": "3:35"
+        },
+        {
+          "position": "B1",
+          "title": "Wanderlove",
+          "duration": "2:20"
+        },
+        {
+          "position": "B2",
+          "title": "Hello, Hello",
+          "duration": "2:13"
+        },
+        {
+          "position": "B3",
+          "title": "Sunrise, Sunset",
+          "duration": "3:12"
+        },
+        {
+          "position": "B4",
+          "title": "Until It's Time For You To Go",
+          "duration": "2:18"
+        },
+        {
+          "position": "B5",
+          "title": "My Guy",
+          "duration": "2:38"
+        }
+      ],
       "lowestPrice": 1.87,
       "forSale": 78
     },
     {
-      "id": 3269684,
-      "title": "Camp",
-      "artist": "Childish Gambino",
-      "year": 2011,
-      "label": "Glassnote Entertainment Group LLC",
-      "format": "Vinyl, LP, Album, Limited Edition",
-      "cover": "https://i.discogs.com/uE2r7QX_7gZnvR4Ev0C0_M6ubnKdpjkdbrUcZ-HHiPE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk2/ODQtMTYyNjMzNTQw/MS04Mjk4LmpwZWc.jpeg",
-      "url": "https://www.discogs.com/release/3269684",
-      "dateAdded": "2026-11-19T13:56:48-08:00",
-      "lowestPrice": 33.56,
-      "forSale": 9
+      "id": 27356088,
+      "title": "2014 Forest Hills Drive",
+      "artist": "J. Cole",
+      "year": 2023,
+      "label": "Interscope Records",
+      "format": "Vinyl, LP, Album, Reissue",
+      "cover": "https://i.discogs.com/N9gcCdG7P67vf4RHcgzAQk7d7ygV2Nr6ZCZMFnhLZso/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU2/MDg4LTE2ODkwMjAw/MTQtNDMwNS5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/27356088",
+      "dateAdded": "2026-11-19T13:59:26-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Intro",
+          "duration": "2:09"
+        },
+        {
+          "position": "A2",
+          "title": "January 28th",
+          "duration": "4:02"
+        },
+        {
+          "position": "A3",
+          "title": "Wet Dreamz",
+          "duration": "3:59"
+        },
+        {
+          "position": "A4",
+          "title": "03' Adolescence",
+          "duration": "4:24"
+        },
+        {
+          "position": "B1",
+          "title": "A Tale Of 2 Citiez",
+          "duration": "4:29"
+        },
+        {
+          "position": "B2",
+          "title": "Fire Squad",
+          "duration": "4:48"
+        },
+        {
+          "position": "B3",
+          "title": "St. Tropez",
+          "duration": "4:17"
+        },
+        {
+          "position": "C1",
+          "title": "G.O.M.D.",
+          "duration": "5:01"
+        },
+        {
+          "position": "C2",
+          "title": "No Role Modelz",
+          "duration": "4:52"
+        },
+        {
+          "position": "C3",
+          "title": "Hello",
+          "duration": "3:39"
+        },
+        {
+          "position": "C4",
+          "title": "Apparently",
+          "duration": "4:53"
+        },
+        {
+          "position": "D1",
+          "title": "Love Yourz",
+          "duration": "3:31"
+        },
+        {
+          "position": "D2",
+          "title": "Note To Self",
+          "duration": "14:35"
+        }
+      ],
+      "lowestPrice": 20.98,
+      "forSale": 50
+    },
+    {
+      "id": 36239401,
+      "title": "Older (and Wiser)",
+      "artist": "Lizzy McAlpine",
+      "year": 2026,
+      "label": "RCA",
+      "format": "Vinyl, LP, Album, Deluxe Edition",
+      "cover": "https://i.discogs.com/fQNvT0GpsFsZjZAbMN3sXSa6FBDxh-iaai0M2YvCnOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjM5/NDAxLTE3Njg4MjYy/OTUtNDA3Mi5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/36239401",
+      "dateAdded": "2026-11-19T13:58:34-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "The Elevator"
+        },
+        {
+          "position": "A2",
+          "title": "Come Down Soon"
+        },
+        {
+          "position": "A3",
+          "title": "Like it Tends to Do"
+        },
+        {
+          "position": "A4",
+          "title": "Movie Star"
+        },
+        {
+          "position": "A5",
+          "title": "All Falls Down"
+        },
+        {
+          "position": "A6",
+          "title": "Staying"
+        },
+        {
+          "position": "A7",
+          "title": "I Guess"
+        },
+        {
+          "position": "B1",
+          "title": "Drunk, Running"
+        },
+        {
+          "position": "B2",
+          "title": "Broken Glass"
+        },
+        {
+          "position": "B3",
+          "title": "You Forced Me To"
+        },
+        {
+          "position": "B4",
+          "title": "Older"
+        },
+        {
+          "position": "B5",
+          "title": "Better Than This"
+        },
+        {
+          "position": "B6",
+          "title": "March"
+        },
+        {
+          "position": "B7",
+          "title": "Vortex"
+        },
+        {
+          "position": "C1",
+          "title": "Method Acting (Demo)"
+        },
+        {
+          "position": "C2",
+          "title": "Pushing It Down and Praying"
+        },
+        {
+          "position": "C3",
+          "title": "Soccer Practice"
+        },
+        {
+          "position": "C4",
+          "title": "Force Of Nature"
+        },
+        {
+          "position": "C5",
+          "title": "Spring Into Summer"
+        },
+        {
+          "position": "D1",
+          "title": "Pushing It Down and Praying (Live from AFAS, Amsterdam)"
+        },
+        {
+          "position": "D2",
+          "title": "Soccer Practice (Live From Eventim Apollo, London)"
+        },
+        {
+          "position": "D3",
+          "title": "Force Of Nature (Live From The Anthem, Washington Dc)"
+        },
+        {
+          "position": "D4",
+          "title": "Spring into Summer (Live from MGM Music Hall, Boston)"
+        }
+      ],
+      "lowestPrice": 24,
+      "forSale": 42
+    },
+    {
+      "id": 37593093,
+      "title": "You Seem Pretty Sad For A Girl So In Love",
+      "artist": "Olivia Rodrigo",
+      "year": 2026,
+      "label": "Geffen Records",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/4GMZvxDICEQ1xgrRUUH3hTzyFP30VViMK95oJoVTnS0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTkz/MDkzLTE3ODg4MDY3/ODUtMzIzNS5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/37593093",
+      "dateAdded": "2026-11-19T13:58:09-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Drop Dead",
+          "duration": "3:44"
+        },
+        {
+          "position": "A2",
+          "title": "Stupid Song",
+          "duration": "3:29"
+        },
+        {
+          "position": "A3",
+          "title": "Honeybee",
+          "duration": "3:09"
+        },
+        {
+          "position": "A4",
+          "title": "Maggots For Brains",
+          "duration": "3:38"
+        },
+        {
+          "position": "A5",
+          "title": "U + Me = <3",
+          "duration": "3:48"
+        },
+        {
+          "position": "A6",
+          "title": "My Way",
+          "duration": "3:00"
+        },
+        {
+          "position": "A7",
+          "title": "Purple",
+          "duration": "4:00"
+        },
+        {
+          "position": "B1",
+          "title": "The Cure",
+          "duration": "4:29"
+        },
+        {
+          "position": "B2",
+          "title": "Begged",
+          "duration": "3:37"
+        },
+        {
+          "position": "B3",
+          "title": "What's Wrong With Me",
+          "duration": "3:33"
+        },
+        {
+          "position": "B4",
+          "title": "Less",
+          "duration": "3:13"
+        },
+        {
+          "position": "B5",
+          "title": "Expectations",
+          "duration": "3:41"
+        },
+        {
+          "position": "B6",
+          "title": "Cigarette Smoke",
+          "duration": "5:10"
+        }
+      ],
+      "lowestPrice": 23.95,
+      "forSale": 122
     }
   ]
 }
