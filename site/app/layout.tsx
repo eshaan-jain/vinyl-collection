@@ -1,19 +1,21 @@
 import "./globals.css";
-import Link from "next/link";
+import Nav from "./Nav";
 
-export const metadata = { title: "Vinyl", description: "My record collection and picks" };
+export const metadata = { title: "Vinyl", description: "My record collection and recs" };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap"
+        />
+      </head>
       <body>
-        <header className="nav">
-          <Link href="/" className="brand">● Vinyl</Link>
-          <nav>
-            <Link href="/">My Vinyl</Link>
-            <Link href="/picks/">Picks</Link>
-          </nav>
-        </header>
+        <Nav />
         <main>{children}</main>
       </body>
     </html>

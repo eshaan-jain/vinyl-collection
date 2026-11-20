@@ -2,6 +2,7 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import type { Taste } from "./types";
+import { matchSpotifyAlbum } from "./collection";
 
 export const TOKEN_FILE = fileURLToPath(new URL("../.spotify-token.json", import.meta.url)) // not .pathname: that keeps %20 for spaces in folder names;
 export const REDIRECT_URI = "http://127.0.0.1:8888/callback";
@@ -63,4 +64,18 @@ export async function getTaste(token: string): Promise<Taste> {
       cover: i.album.images?.[1]?.url ?? i.album.images?.[0]?.url, // ~300px album art, used when Discogs has none
     })),
   };
+}
+
+/** App-only token (client credentials). Enough for catalog search; works unattended in GitHub Actions, no user login. */
+export async function getAppToken(): Promise<string | null> {
+  if (!process.env.SPOTIFY_CLIENT_ID || !process.env.SPOTIFY_CLIENT_SECRET) return null;
+  const t = await tokenRequest({ grant_type: "client_credentials" });
+  return t.access_token;
+}
+
+/** Spotify album URL for a record, or null when there is no confident match. */
+export async function findAlbumUrl(token: string, want: { artist: string; title: string }): Promise<string | null> {
+  const q = encodeURIComponent(`album:${want.title} artist:${want.artist}`);
+  const data = await sp<any>(token, `/search?type=album&limit=5&q=${q}`);
+  return matchSpotifyAlbum(want, data.albums?.items ?? []);
 }

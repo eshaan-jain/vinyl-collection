@@ -16,6 +16,16 @@ site/          static Next.js site (My Vinyl + Picks tabs), reads data/*.json at
 `npm run refresh` = pull → sync collection → recommend → commit → push (the push redeploys the site).
 Options: `npm run refresh -- --no-prices` (faster sync), `npm run refresh -- --no-push` (commit only).
 
+## What the sync stores
+`npm run sync` writes `data/collection.json` **A–Z by artist** (then year, then title), so the shelf stays alphabetical after every sync.
+Each record also gets its Discogs **tracklist** and a **Spotify album link**. Both are fetched once per record and reused on later syncs.
+Spotify links need `SPOTIFY_CLIENT_ID` / `SPOTIFY_CLIENT_SECRET` (in `.env`, or as repo secrets for the workflow); without them the
+record's disc links to a Spotify search for the album instead. Clicking a record on the site opens its pop-up (cover, details, tracklist,
+spinning disc → Spotify).
+
+## Tests
+`npm test` covers the sort order, tracklist grouping, Spotify matching and the Discogs/Spotify response handling.
+
 ## Adding a record
 Add it in Discogs (the mobile app can scan the barcode). Then either run the **Sync & deploy**
 workflow (Actions tab → Run workflow) or locally `npm run sync` and push.
