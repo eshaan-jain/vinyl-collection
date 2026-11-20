@@ -10,6 +10,15 @@ export interface Vinyl {
   dateAdded?: string;
   lowestPrice?: number | null; // USD, Discogs marketplace
   forSale?: number | null;
+  tracks?: Track[];            // from the Discogs release; absent until the sync has fetched it
+  spotifyUrl?: string | null;  // album link; null = looked up, no confident match; absent = not looked up yet
+}
+
+/** One row of a Discogs tracklist. position is "A1", "B2", "1-3" or "" (headings). */
+export interface Track {
+  position: string;
+  title: string;
+  duration?: string;
 }
 
 export interface Taste {

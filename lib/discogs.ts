@@ -1,6 +1,6 @@
 // Thin Discogs API client shared by the sync script, the recommender and the MCP server.
 // Docs: https://www.discogs.com/developers
-import type { Vinyl } from "./types";
+import type { Track, Vinyl } from "./types";
 
 const BASE = "https://api.discogs.com";
 const UA = "VinylFinder/0.2 (personal project)";
@@ -87,4 +87,12 @@ export async function getMarketStats(releaseId: number): Promise<{ lowestPrice: 
 /** Add a release to your wantlist (Discogs can then alert you about listings). */
 export async function addToWantlist(username: string, releaseId: number): Promise<void> {
   await discogs<void>(`/users/${username}/wants/${releaseId}`, {}, { method: "PUT" });
+}
+
+/** Tracklist of one release (positions like "A1", "B2"; Discogs also returns heading rows with an empty position). */
+export async function getTracklist(releaseId: number): Promise<Track[]> {
+  const d = await discogs<any>(`/releases/${releaseId}`);
+  return (d.tracklist ?? [])
+    .filter((t: any) => (t.type_ ?? "track") === "track" && t.title)
+    .map((t: any): Track => ({ position: t.position ?? "", title: t.title, ...(t.duration ? { duration: t.duration } : {}) }));
 }

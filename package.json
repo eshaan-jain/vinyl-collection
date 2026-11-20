@@ -11,7 +11,8 @@
     "merge-web": "tsx scripts/merge-web-offers.ts",
     "spotify:login": "tsx recommender/spotify-login.ts",
     "mcp": "tsx mcp/server.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test test/*.test.ts"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",

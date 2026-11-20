@@ -35,6 +35,9 @@ jobs:
         env:
           DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
           DISCOGS_USERNAME: ${{ vars.DISCOGS_USERNAME }}
+          # Optional: lets the sync look up Spotify album links. Without them the site falls back to a Spotify search link.
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
       - name: Commit updated collection
         run: |
           git config user.name "github-actions"
