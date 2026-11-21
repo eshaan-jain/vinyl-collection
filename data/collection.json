@@ -1,7 +1,246 @@
 {
-  "generatedAt": "2026-11-20T21:10:38.761Z",
+  "generatedAt": "2026-11-21T05:09:04.983Z",
   "source": "discogs",
   "items": [
+    {
+      "id": 966752,
+      "title": "New Orleans' Billie & De De And Their Preservation Hall Jazz Band",
+      "artist": "Billie & De De Pierce, Preservation Hall Jazz Band",
+      "year": 1966,
+      "label": "Preservation Hall",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/VuHfjAF3Efv0h1sRXsiTPjpGge4D55eyNuiD8croJ9g/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njc1/Mi0xNzMzODc5MDUw/LTQxNzUuanBlZw.jpeg",
+      "url": "https://www.discogs.com/release/966752",
+      "dateAdded": "2026-11-20T20:59:31-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Peanut Vendor",
+          "duration": "3:31"
+        },
+        {
+          "position": "A2",
+          "title": "Just A Closer Walk With Thee",
+          "duration": "7:35"
+        },
+        {
+          "position": "A3",
+          "title": "Just A Little While To Stay Here",
+          "duration": "4:35"
+        },
+        {
+          "position": "A4",
+          "title": "St.James Infirmary",
+          "duration": "3:35"
+        },
+        {
+          "position": "A5",
+          "title": "Eh La Bas",
+          "duration": "3:31"
+        },
+        {
+          "position": "B1",
+          "title": "Sallee Dame",
+          "duration": "3:04"
+        },
+        {
+          "position": "B2",
+          "title": "Lonesome Road",
+          "duration": "6:45"
+        },
+        {
+          "position": "B3",
+          "title": "Put On Your Old Grey Bonnet",
+          "duration": "3:10"
+        },
+        {
+          "position": "B4",
+          "title": "Freight Train Blues",
+          "duration": "5:34"
+        },
+        {
+          "position": "B5",
+          "title": "Let Me Call You Sweetheart",
+          "duration": "3:40"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 1.1,
+      "forSale": 62
+    },
+    {
+      "id": 7591903,
+      "title": "Melting Pot",
+      "artist": "Blue Mink",
+      "year": 1969,
+      "label": "Philips",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/_XHwQ7LAD1RU1FG9WrJSvzwKw25rAToJRkCXX6TA9Qw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTE5/MDMtMTYxODA5OTE5/OC0xNDc5LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/7591903",
+      "dateAdded": "2026-11-20T21:01:49-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Mary Jane",
+          "duration": "3:30"
+        },
+        {
+          "position": "A2",
+          "title": "Gidda Wadda Wobble",
+          "duration": "3:45"
+        },
+        {
+          "position": "A3",
+          "title": "Country Chic",
+          "duration": "4:30"
+        },
+        {
+          "position": "A4",
+          "title": "Over The Top",
+          "duration": "6:13"
+        },
+        {
+          "position": "B1",
+          "title": "Melting Pot",
+          "duration": "3:50"
+        },
+        {
+          "position": "B2",
+          "title": "Blue Mink",
+          "duration": "4:02"
+        },
+        {
+          "position": "B3",
+          "title": "Prelude",
+          "duration": "3:50"
+        },
+        {
+          "position": "B4",
+          "title": "But Not Forever",
+          "duration": "3:00"
+        },
+        {
+          "position": "B5",
+          "title": "Chopin Up Stix",
+          "duration": "4:25"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7IypLYfAImcNTwHtj2JLP3",
+      "lowestPrice": 3.99,
+      "forSale": 4
+    },
+    {
+      "id": 4997585,
+      "title": "Melophobia",
+      "artist": "Cage The Elephant",
+      "year": 2013,
+      "label": "DSP (4)",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/311EbG0vvm6dD5SwvnNvP6uqGpfDR510AXfJGY5uMx4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTc1/ODUtMTYyNjE0MDk3/NS00NzIyLmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/4997585",
+      "dateAdded": "2026-11-20T21:05:00-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Spiderhead"
+        },
+        {
+          "position": "A2",
+          "title": "Come A Little Closer"
+        },
+        {
+          "position": "A3",
+          "title": "Telescope"
+        },
+        {
+          "position": "A4",
+          "title": "It's Just Forever"
+        },
+        {
+          "position": "A5",
+          "title": "Take It Or Leave It"
+        },
+        {
+          "position": "B1",
+          "title": "Halo"
+        },
+        {
+          "position": "B2",
+          "title": "Black Widow"
+        },
+        {
+          "position": "B3",
+          "title": "Hypocrite"
+        },
+        {
+          "position": "B4",
+          "title": "Teeth"
+        },
+        {
+          "position": "B5",
+          "title": "Cigarette Daydreams"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz",
+      "lowestPrice": 12.99,
+      "forSale": 33
+    },
+    {
+      "id": 1874161,
+      "title": "Lotion Man",
+      "artist": "Capleton",
+      "year": 1991,
+      "label": "VP Records",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/q5Th3t7C7QB_0-W9xnehw050FpoimKNqFztwsxlXqLk/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQx/NjEtMTQxMjc4NTgw/Mi00NjE2LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/1874161",
+      "dateAdded": "2026-11-20T21:02:02-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Mi Nuh Lotion Man"
+        },
+        {
+          "position": "A2",
+          "title": "God Mi Love Mi Nuh Love Satan"
+        },
+        {
+          "position": "A3",
+          "title": "Two Minute Man"
+        },
+        {
+          "position": "A4",
+          "title": "When Mi A Move"
+        },
+        {
+          "position": "A5",
+          "title": "Come Out A Mi Air"
+        },
+        {
+          "position": "B1",
+          "title": "Baby Oil & Baby Lotion"
+        },
+        {
+          "position": "B2",
+          "title": "Christianity"
+        },
+        {
+          "position": "B3",
+          "title": "Destroy"
+        },
+        {
+          "position": "B4",
+          "title": "Grab It Up"
+        },
+        {
+          "position": "B5",
+          "title": "Clean Hands"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2T73DyHFYHM7ciBwpM0Jk9",
+      "lowestPrice": 14,
+      "forSale": 4
+    },
     {
       "id": 3269684,
       "title": "Camp",
@@ -99,8 +338,80 @@
           "duration": "3:43"
         }
       ],
+      "spotifyUrl": "https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta",
       "lowestPrice": 33.56,
       "forSale": 9
+    },
+    {
+      "id": 11116099,
+      "title": "Awaken, My Love!",
+      "artist": "Childish Gambino",
+      "year": 2017,
+      "label": "Glassnote (2)",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/UTVD7HoRr4k0ZpXjcGvgXm7FEVXMMjra9kvKXIVowp8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE2/MDk5LTE1MTU4NDU4/ODYtNTA4My5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/11116099",
+      "dateAdded": "2026-11-20T21:06:00-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Me And Your Mama",
+          "duration": "6:19"
+        },
+        {
+          "position": "A2",
+          "title": "Have Some Love",
+          "duration": "3:44"
+        },
+        {
+          "position": "A3",
+          "title": "Boogieman",
+          "duration": "3:37"
+        },
+        {
+          "position": "A4",
+          "title": "Zombies",
+          "duration": "4:42"
+        },
+        {
+          "position": "A5",
+          "title": "Riot",
+          "duration": "2:05"
+        },
+        {
+          "position": "A6",
+          "title": "Redbone",
+          "duration": "5:27"
+        },
+        {
+          "position": "B1",
+          "title": "California",
+          "duration": "2:45"
+        },
+        {
+          "position": "B2",
+          "title": "Terrified",
+          "duration": "4:15"
+        },
+        {
+          "position": "B3",
+          "title": "Baby Boy",
+          "duration": "6:22"
+        },
+        {
+          "position": "B4",
+          "title": "The Night Me And Your Mama Met",
+          "duration": "3:34"
+        },
+        {
+          "position": "B5",
+          "title": "Stand Tall",
+          "duration": "6:11"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni",
+      "lowestPrice": 20,
+      "forSale": 28
     },
     {
       "id": 402288,
@@ -164,8 +475,446 @@
           "duration": "2:38"
         }
       ],
+      "spotifyUrl": "https://open.spotify.com/album/6eUxnGVDnws6EWuzaNS39C",
       "lowestPrice": 1.87,
       "forSale": 78
+    },
+    {
+      "id": 9803774,
+      "title": "Fantasia In C Minor, K.475; Sonata In C Minor, K.457 (No.14); Sonata In A Minor, K.310 (No.8)",
+      "artist": "Daniel Barenboim, Wolfgang Amadeus Mozart",
+      "year": 1967,
+      "label": "Westminster",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/SrJnoisipeO0XRAm04D-qKYsMtdtHnwOoEBCrm9upRQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDM3/NzQtMTQ4NjU2ODky/OS05MDEzLmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/9803774",
+      "dateAdded": "2026-11-20T20:52:33-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Fantasia In C Minor, K.475",
+          "duration": "13:42"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 4.25,
+      "forSale": 2
+    },
+    {
+      "id": 1881941,
+      "title": "New York Now!",
+      "artist": "Daniel Ponce",
+      "year": 1983,
+      "label": "Celluloid",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/6EEtn79Jj3977sQXzmkQCyZ772vymarlk_hnHD6bQ_g/rs:fit/g:sm/q:90/h:283/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE5/NDEtMTI0OTg2MzAz/NC5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/1881941",
+      "dateAdded": "2026-11-20T21:00:28-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Invocación De 80",
+          "duration": "6:31"
+        },
+        {
+          "position": "A2",
+          "title": "Africa Contemporanea",
+          "duration": "8:09"
+        },
+        {
+          "position": "A3",
+          "title": "Basta De Cuentos",
+          "duration": "5:06"
+        },
+        {
+          "position": "B1",
+          "title": "Odie",
+          "duration": "3:30"
+        },
+        {
+          "position": "B2",
+          "title": "Cojelo Suave",
+          "duration": "6:47"
+        },
+        {
+          "position": "B3",
+          "title": "Siboney",
+          "duration": "6:09"
+        },
+        {
+          "position": "B4",
+          "title": "Solo Para Ti",
+          "duration": "6:25"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 4,
+      "forSale": 31
+    },
+    {
+      "id": 3894395,
+      "title": "E. Power Biggs Plays Bach In The Thomaskirche",
+      "artist": "E. Power Biggs, Johann Sebastian Bach",
+      "year": 1971,
+      "label": "Columbia Masterworks",
+      "format": "Vinyl, LP, Stereo",
+      "cover": "https://i.discogs.com/guXeX_Kh5sXz-pgmXOXXrFUc7vKrEIWDSLIR3_YouG8/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTQz/OTUtMTM0ODM3NzE5/MC0xMzM5LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/3894395",
+      "dateAdded": "2026-11-20T21:01:03-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Toccata And Fugue In D Minor, BWV 565"
+        },
+        {
+          "position": "A2",
+          "title": "Passacaglia And Fugue In C Minor, BWV 582"
+        },
+        {
+          "position": "B1",
+          "title": "Prelude And Fugue In G Major (\"The Great\"), BWV 541"
+        },
+        {
+          "position": "B2",
+          "title": "Prelude And Fugue In C Major (9/8), BWV 547"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 0.99,
+      "forSale": 33
+    },
+    {
+      "id": 1424326,
+      "title": "Meeting Of The Minds",
+      "artist": "Four Tops",
+      "year": 1974,
+      "label": "Dunhill",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/_KcQ8uCJa3LqeMpXeKfa-pIU1A2OzIYK3gmuL72AEQ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQz/MjYtMTM5ODcyOTMy/MS03OTc0LnBuZw.jpeg",
+      "url": "https://www.discogs.com/release/1424326",
+      "dateAdded": "2026-11-20T16:13:37-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "One Chain Don't Make No Prison",
+          "duration": "4:29"
+        },
+        {
+          "position": "A2",
+          "title": "Midnight Flower",
+          "duration": "4:03"
+        },
+        {
+          "position": "A3",
+          "title": "The Well Is Dry",
+          "duration": "3:48"
+        },
+        {
+          "position": "A4",
+          "title": "Love Ain't Easy To Come By",
+          "duration": "3:38"
+        },
+        {
+          "position": "A5",
+          "title": "No Sad Songs",
+          "duration": "5:14"
+        },
+        {
+          "position": "B1",
+          "title": "Right On Brother",
+          "duration": "4:05"
+        },
+        {
+          "position": "B2",
+          "title": "Tell Me You Love Me (Love Sounds)",
+          "duration": "3:30"
+        },
+        {
+          "position": "B3",
+          "title": "All My Love",
+          "duration": "4:29"
+        },
+        {
+          "position": "B4",
+          "title": "I Found The Spirit",
+          "duration": "3:54"
+        },
+        {
+          "position": "B5",
+          "title": "Meeting Of The Minds",
+          "duration": "4:22"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6OFT0LsS8fu6wJ6UTSGjn3",
+      "lowestPrice": 3.3,
+      "forSale": 53
+    },
+    {
+      "id": 2617814,
+      "title": "A Man And His Music",
+      "artist": "Frank Sinatra",
+      "year": 1965,
+      "label": "Reprise Records",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/QVmzEGGfaGtyrppoQMpUC3Nqs9czCPfWU-6BFPHWwPo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc4/MTQtMTcyODc4MTEy/My04MDc5LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/2617814",
+      "dateAdded": "2026-11-20T21:01:30-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Put Your Dreams Away"
+        },
+        {
+          "position": "A2",
+          "title": "All Or Nothing At All"
+        },
+        {
+          "position": "A3",
+          "title": "I'll Never Smile Again"
+        },
+        {
+          "position": "A4",
+          "title": "There Are Such Things"
+        },
+        {
+          "position": "A5",
+          "title": "I'll Be Seeing You"
+        },
+        {
+          "position": "A6",
+          "title": "The One I Love Belongs To Somebody Else"
+        },
+        {
+          "position": "A7",
+          "title": "Polka Dots And Moonbeams"
+        },
+        {
+          "position": "B1",
+          "title": "Night And Day"
+        },
+        {
+          "position": "B2",
+          "title": "Oh, What It Seemed To Be"
+        },
+        {
+          "position": "B3",
+          "title": "Soliloquy"
+        },
+        {
+          "position": "B4",
+          "title": "Nancy"
+        },
+        {
+          "position": "B5",
+          "title": "The House I Live In"
+        },
+        {
+          "position": "B6",
+          "title": "From Here To Eternity (Extract From Film)"
+        },
+        {
+          "position": "C1",
+          "title": "Come Fly With Me"
+        },
+        {
+          "position": "C2",
+          "title": "How Little We Know"
+        },
+        {
+          "position": "C3",
+          "title": "Learnin' The Blues"
+        },
+        {
+          "position": "C4",
+          "title": "In The Wee Small Hours Of The Morning"
+        },
+        {
+          "position": "C5",
+          "title": "Young At Heart"
+        },
+        {
+          "position": "C6",
+          "title": "Witchcraft"
+        },
+        {
+          "position": "C7",
+          "title": "All The Way"
+        },
+        {
+          "position": "C8",
+          "title": "Love And Marriage"
+        },
+        {
+          "position": "C9",
+          "title": "I've Got You Under Skin"
+        },
+        {
+          "position": "D1",
+          "title": "Ring-A-Ding-Ding"
+        },
+        {
+          "position": "D2",
+          "title": "The Second Time Around"
+        },
+        {
+          "position": "D3",
+          "title": "The Summit (Comedy Routine)"
+        },
+        {
+          "position": "D4",
+          "title": "The Oldest Established (Permanent Floating Crap Game)"
+        },
+        {
+          "position": "D5",
+          "title": "Luck Be A Lady"
+        },
+        {
+          "position": "D6",
+          "title": "Call Me Irresponsible"
+        },
+        {
+          "position": "D7",
+          "title": "Fly Me To The Moon"
+        },
+        {
+          "position": "D8",
+          "title": "Softly, As I Leave You"
+        },
+        {
+          "position": "D9",
+          "title": "My Kind Of Town"
+        },
+        {
+          "position": "D10",
+          "title": "The September Of My Years"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6lmuhQkwg4qkjytuho7Oxz",
+      "lowestPrice": 1.99,
+      "forSale": 54
+    },
+    {
+      "id": 35209627,
+      "title": "Getting Killed",
+      "artist": "Geese",
+      "year": 2025,
+      "label": "Partisan Records",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/tr7Yy5Ip4y5T75YojKDCZddvjZagrZkFtALq8jhd9K0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA5/NjI3LTE3NTg5ODQ0/NjQtNzAzOS5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/35209627",
+      "dateAdded": "2026-11-20T21:03:00-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Trinidad",
+          "duration": "3:44"
+        },
+        {
+          "position": "A2",
+          "title": "Cobra",
+          "duration": "3:05"
+        },
+        {
+          "position": "A3",
+          "title": "Husbands",
+          "duration": "4:08"
+        },
+        {
+          "position": "A4",
+          "title": "Getting Killed",
+          "duration": "4:44"
+        },
+        {
+          "position": "A5",
+          "title": "Islands Of Men",
+          "duration": "5:54"
+        },
+        {
+          "position": "B1",
+          "title": "100 Horses",
+          "duration": "3:46"
+        },
+        {
+          "position": "B2",
+          "title": "Half Real",
+          "duration": "3:22"
+        },
+        {
+          "position": "B3",
+          "title": "Au Pays Du Cocaine",
+          "duration": "3:30"
+        },
+        {
+          "position": "B4",
+          "title": "Bow Down",
+          "duration": "3:28"
+        },
+        {
+          "position": "B5",
+          "title": "Taxes",
+          "duration": "3:17"
+        },
+        {
+          "position": "B6",
+          "title": "Long Island City Here I Come",
+          "duration": "6:37"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC",
+      "lowestPrice": 14.98,
+      "forSale": 131
+    },
+    {
+      "id": 530205,
+      "title": "So Def, So Fresh, So Stupid",
+      "artist": "Gucci Crew II",
+      "year": 1987,
+      "label": "Gucci Records",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/XTCud7eMgkfPtk2eokk5Y6zHgI0-R3sxPRXOUx_56qQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDIw/NS0xMjAxMzcyNDc2/LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/530205",
+      "dateAdded": "2026-11-20T21:00:17-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Gucci Bass"
+        },
+        {
+          "position": "A2",
+          "title": "The Cabbage Patch"
+        },
+        {
+          "position": "A3",
+          "title": "Till The Day We Die"
+        },
+        {
+          "position": "A4",
+          "title": "Sally \"That Girl\""
+        },
+        {
+          "position": "B1",
+          "title": "Gucci Broke"
+        },
+        {
+          "position": "B2",
+          "title": "Get'em Girls"
+        },
+        {
+          "position": "B3",
+          "title": "And The Beat Goes"
+        },
+        {
+          "position": "B4",
+          "title": "Dating Game"
+        },
+        {
+          "position": "B5",
+          "title": "We're Def - Yall"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7wv6q0PxAEqzzFintK9971",
+      "lowestPrice": 9.99,
+      "forSale": 6
     },
     {
       "id": 27356088,
@@ -244,8 +993,147 @@
           "duration": "14:35"
         }
       ],
+      "spotifyUrl": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG",
       "lowestPrice": 20.98,
-      "forSale": 50
+      "forSale": 52
+    },
+    {
+      "id": 13298412,
+      "title": "Le Disque D'Or, Volume 3",
+      "artist": "Jean Ferrat",
+      "year": 1979,
+      "label": "Barclay",
+      "format": "Vinyl, LP, Compilation",
+      "cover": "https://i.discogs.com/ISdrn7f7l8J8HEnDdw50rBykjT3P79qCmOt81NvgQmA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk4/NDEyLTE1NTE2MjY2/NjEtNzQ0My5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/13298412",
+      "dateAdded": "2026-11-20T20:58:16-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "C'est Beau La Vie",
+          "duration": "2:41"
+        },
+        {
+          "position": "A2",
+          "title": "Ce Qu'on Est Bien Mon Amour",
+          "duration": "2:45"
+        },
+        {
+          "position": "A3",
+          "title": "En Groupe, En Ligue, En Procession",
+          "duration": "3:00"
+        },
+        {
+          "position": "A4",
+          "title": "Heureux Celui Qui Meurt D'aimer",
+          "duration": "2:55"
+        },
+        {
+          "position": "A5",
+          "title": "Pauvres Petits C...",
+          "duration": "3:06"
+        },
+        {
+          "position": "A6",
+          "title": "C'est Toujours La Première Fois",
+          "duration": "2:53"
+        },
+        {
+          "position": "B1",
+          "title": "Je Ne Chante Pas Pour Passer Le Temps",
+          "duration": "2:34"
+        },
+        {
+          "position": "B2",
+          "title": "Les Belles Etrangères",
+          "duration": "2:46"
+        },
+        {
+          "position": "B3",
+          "title": "Je Vous Aime",
+          "duration": "3:27"
+        },
+        {
+          "position": "B4",
+          "title": "Camarade",
+          "duration": "2:35"
+        },
+        {
+          "position": "B5",
+          "title": "Sacré Félicien",
+          "duration": "2:28"
+        },
+        {
+          "position": "B6",
+          "title": "A Moi L'afrique",
+          "duration": "4:32"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 2.2,
+      "forSale": 11
+    },
+    {
+      "id": 3111000,
+      "title": "Changes",
+      "artist": "Keith Jarrett, Gary Peacock, Jack DeJohnette",
+      "year": 1984,
+      "label": "ECM Records",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/XCGHgl8vAS6NHH3mAMyG1_cgmr9WGo5O_qVLqpoZUWU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTEw/MDAtMTMxNjI4NTY5/MS5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/3111000",
+      "dateAdded": "2026-11-20T21:00:43-08:00",
+      "tracks": [
+        {
+          "position": "A",
+          "title": "Flying Part 1",
+          "duration": "16:01"
+        },
+        {
+          "position": "B1",
+          "title": "Flying Part 2",
+          "duration": "14:43"
+        },
+        {
+          "position": "B2",
+          "title": "Prism",
+          "duration": "6:30"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 5.49,
+      "forSale": 25
+    },
+    {
+      "id": 1466659,
+      "title": "Spin The Bottle",
+      "artist": "Kyper",
+      "year": 1992,
+      "label": "Turnstyle Records",
+      "format": "Vinyl, 12\", 33 ⅓ RPM",
+      "cover": "https://i.discogs.com/O-LX-utoaZqTAfHz6wnJ7zLY06nYI_hcU7SiSMon7ik/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY2/NTktMTM1NjE4MjQx/OS0yMTAzLmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/1466659",
+      "dateAdded": "2026-11-20T16:21:00-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Spin The Bottle (Radio Mix)",
+          "duration": "3:47"
+        },
+        {
+          "position": "A2",
+          "title": "Spin The Bottle (Club Mix)",
+          "duration": "6:09"
+        },
+        {
+          "position": "B",
+          "title": "Spin The Bottle (Aerodynamic Bass Remix)",
+          "duration": "6:26"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 1,
+      "forSale": 22
     },
     {
       "id": 36239401,
@@ -351,8 +1239,509 @@
           "title": "Spring into Summer (Live from MGM Music Hall, Boston)"
         }
       ],
+      "spotifyUrl": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF",
       "lowestPrice": 24,
       "forSale": 42
+    },
+    {
+      "id": 11815982,
+      "title": "Melodrama",
+      "artist": "Lorde",
+      "year": 2018,
+      "label": "Lava",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/r4w-HpFGkEskWR7mVT_k3yZxeM3vyDfMf27G2W32o9s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE1/OTgyLTE1MjQxNTI1/MDktNjczMS5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/11815982",
+      "dateAdded": "2026-11-20T21:02:45-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Green Light",
+          "duration": "3:54"
+        },
+        {
+          "position": "A2",
+          "title": "Sober",
+          "duration": "3:17"
+        },
+        {
+          "position": "A3",
+          "title": "Homemade Dynamite",
+          "duration": "3:09"
+        },
+        {
+          "position": "A4",
+          "title": "The Louvre",
+          "duration": "4:31"
+        },
+        {
+          "position": "A5",
+          "title": "Liability",
+          "duration": "2:51"
+        },
+        {
+          "position": "A6",
+          "title": "Hard Feelings",
+          "duration": "3:45"
+        },
+        {
+          "position": "B1",
+          "title": "Loveless",
+          "duration": "2:13"
+        },
+        {
+          "position": "B2",
+          "title": "Sober II (Melodrama)",
+          "duration": "2:58"
+        },
+        {
+          "position": "B3",
+          "title": "Writer In The Dark",
+          "duration": "3:36"
+        },
+        {
+          "position": "B4",
+          "title": "Supercut",
+          "duration": "4:37"
+        },
+        {
+          "position": "B5",
+          "title": "Liability (Reprise)",
+          "duration": "2:16"
+        },
+        {
+          "position": "B6",
+          "title": "Perfect Places",
+          "duration": "3:41"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0RprDFd8KN06rt0jyKXBsC",
+      "lowestPrice": 24,
+      "forSale": 19
+    },
+    {
+      "id": 24039458,
+      "title": "Surrender",
+      "artist": "Maggie Rogers",
+      "year": 2022,
+      "label": "Capitol Records",
+      "format": "Vinyl, LP, Album, Limited Edition",
+      "cover": "https://i.discogs.com/0d1hRM-7XJGcZPEAO35_mrkLm3M-7VP-xBz5j4ztIY0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM5/NDU4LTE2NTkxMzM3/NzAtODY0Ni5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/24039458",
+      "dateAdded": "2026-11-20T21:04:28-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Overdrive"
+        },
+        {
+          "position": "A2",
+          "title": "That’s Where I Am"
+        },
+        {
+          "position": "A3",
+          "title": "Want Want"
+        },
+        {
+          "position": "A4",
+          "title": "Anywhere With You"
+        },
+        {
+          "position": "A5",
+          "title": "Horses"
+        },
+        {
+          "position": "A6",
+          "title": "Be Cool"
+        },
+        {
+          "position": "B7",
+          "title": "Shatter"
+        },
+        {
+          "position": "B8",
+          "title": "Begging For Rain"
+        },
+        {
+          "position": "B9",
+          "title": "I’ve Got A Friend"
+        },
+        {
+          "position": "B10",
+          "title": "Honey"
+        },
+        {
+          "position": "B11",
+          "title": "Symphony"
+        },
+        {
+          "position": "B12",
+          "title": "Different Kind Of World"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI",
+      "lowestPrice": 9.99,
+      "forSale": 14
+    },
+    {
+      "id": 8147064,
+      "title": "Guatemalan Marimbas!",
+      "artist": "Marimba Maderas De Mi Tierra",
+      "year": 0,
+      "label": "Capitol Records",
+      "format": "Vinyl, LP, Stereo",
+      "cover": "https://i.discogs.com/Y_vSMC5i5u9qSR4XnmkZUo05sHfLUYJQwkcJ1VcnR6o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDcw/NjQtMTQ5MTkyMTQ3/Ni03MDI5LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/8147064",
+      "dateAdded": "2026-11-20T20:58:37-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Cuqui"
+        },
+        {
+          "position": "A2",
+          "title": "Sonia Elizabeth"
+        },
+        {
+          "position": "A3",
+          "title": "Un Misterio"
+        },
+        {
+          "position": "A4",
+          "title": "La Calle Del Sol"
+        },
+        {
+          "position": "A5",
+          "title": "Flor De Mayo"
+        },
+        {
+          "position": "A6",
+          "title": "Olga"
+        },
+        {
+          "position": "B1",
+          "title": "Tato Pano"
+        },
+        {
+          "position": "B2",
+          "title": "Panajachel"
+        },
+        {
+          "position": "B3",
+          "title": "Isabel"
+        },
+        {
+          "position": "B4",
+          "title": "Ishtia Quezalteca"
+        },
+        {
+          "position": "B5",
+          "title": "Nuestras Alas Sobre El Mundo"
+        },
+        {
+          "position": "B6",
+          "title": "Xocomil"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4lZP8HurXurMUsXs93jW5H",
+      "lowestPrice": 1.31,
+      "forSale": 12
+    },
+    {
+      "id": 20900377,
+      "title": "Untourable Album",
+      "artist": "Men I Trust",
+      "year": 2021,
+      "label": "Return To Analog",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/yD98cyW4w3wi3ltuaEH23FBdZS8ewwvdcqB5vPDl1FQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTAw/Mzc3LTE2NDgxOTk2/NjYtNzU2Mi5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/20900377",
+      "dateAdded": "2026-11-20T21:05:11-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Organon"
+        },
+        {
+          "position": "A2",
+          "title": "Oh Dove"
+        },
+        {
+          "position": "A3",
+          "title": "Sugar"
+        },
+        {
+          "position": "A4",
+          "title": "Sorbitol"
+        },
+        {
+          "position": "A5",
+          "title": "Tree Among Shrubs"
+        },
+        {
+          "position": "A6",
+          "title": "Before Dawn"
+        },
+        {
+          "position": "B1",
+          "title": "Serenade Of Water"
+        },
+        {
+          "position": "B2",
+          "title": "5AM Waltz"
+        },
+        {
+          "position": "B3",
+          "title": "Always Lone"
+        },
+        {
+          "position": "B4",
+          "title": "Ante Meridiem"
+        },
+        {
+          "position": "B5",
+          "title": "Lifelong Song"
+        },
+        {
+          "position": "B6",
+          "title": "Shoulders"
+        },
+        {
+          "position": "B7",
+          "title": "Beluga"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP",
+      "lowestPrice": 28.66,
+      "forSale": 7
+    },
+    {
+      "id": 6410979,
+      "title": "The Mormon Tabernacle Choir Sings Christmas Carols",
+      "artist": "Mormon Tabernacle Choir",
+      "year": 1967,
+      "label": "CBS",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/sWm6gTcSCC5EiUVRwfHIkvogdg_k8ffsAdrGOHcFGpc/rs:fit/g:sm/q:90/h:407/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTA5/NzktMTQxODU1NjEx/NS03Mzc5LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/6410979",
+      "dateAdded": "2026-11-20T21:04:14-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Joy To The World"
+        },
+        {
+          "position": "A2",
+          "title": "When Jesus Was A Little Child"
+        },
+        {
+          "position": "A3",
+          "title": "Away In A Manger"
+        },
+        {
+          "position": "A4",
+          "title": "A Boy Is Born"
+        },
+        {
+          "position": "A5",
+          "title": "There Shall A Star Form Jacob"
+        },
+        {
+          "position": "A6",
+          "title": "O Come, O Come, Emmanuel"
+        },
+        {
+          "position": "A7",
+          "title": "Far, Far Away On Judea's Plains"
+        },
+        {
+          "position": "A8",
+          "title": "O Holy Night"
+        },
+        {
+          "position": "B1",
+          "title": "What Child Is This?"
+        },
+        {
+          "position": "B2",
+          "title": "Beautiful Saviour"
+        },
+        {
+          "position": "B3",
+          "title": "Watts Nativity Carol"
+        },
+        {
+          "position": "B4",
+          "title": "Tell Us, Shepherd Maids"
+        },
+        {
+          "position": "B5",
+          "title": "The Holy City"
+        },
+        {
+          "position": "B6",
+          "title": "I Heard The Bells"
+        },
+        {
+          "position": "B7",
+          "title": "Silent Night, Holy Night"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 1.1,
+      "forSale": 11
+    },
+    {
+      "id": 27540267,
+      "title": "Messy",
+      "artist": "Olivia Dean",
+      "year": 2023,
+      "label": "EMI",
+      "format": "Vinyl, LP, Album, Special Edition",
+      "cover": "https://i.discogs.com/NzR5lp8U7Bik6QKzB9Zm78NWzwQIsh0JO6i6WkGSyhc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQw/MjY3LTE2ODgxNTIx/ODMtODYxNi5wbmc.jpeg",
+      "url": "https://www.discogs.com/release/27540267",
+      "dateAdded": "2026-11-20T21:06:12-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "UFO",
+          "duration": "2:34"
+        },
+        {
+          "position": "A2",
+          "title": "Dive",
+          "duration": "3:20"
+        },
+        {
+          "position": "A3",
+          "title": "Ladies Room",
+          "duration": "3:40"
+        },
+        {
+          "position": "A4",
+          "title": "No Man",
+          "duration": "2:59"
+        },
+        {
+          "position": "A5",
+          "title": "Dangerously Easy",
+          "duration": "2:43"
+        },
+        {
+          "position": "A6",
+          "title": "Getting There",
+          "duration": "1:46"
+        },
+        {
+          "position": "B1",
+          "title": "Danger",
+          "duration": "2:55"
+        },
+        {
+          "position": "B2",
+          "title": "The Hardest Part",
+          "duration": "2:56"
+        },
+        {
+          "position": "B3",
+          "title": "I Could Be A Florist",
+          "duration": "1:21"
+        },
+        {
+          "position": "B4",
+          "title": "Messy",
+          "duration": "3:34"
+        },
+        {
+          "position": "B5",
+          "title": "Everybody's Crazy",
+          "duration": "2:43"
+        },
+        {
+          "position": "B6",
+          "title": "Carmen",
+          "duration": "4:48"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY",
+      "lowestPrice": 282.89,
+      "forSale": 4
+    },
+    {
+      "id": 35207368,
+      "title": "The Art Of Loving",
+      "artist": "Olivia Dean",
+      "year": 2025,
+      "label": "Capitol Records",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/jkcr-JFQkbkDb2y6T-a2OJunee2x1bxjv34TiN6qEDk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NjA3OTk5/MzgtNjU1MC5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/35207368",
+      "dateAdded": "2026-11-20T21:05:21-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "The Art of Loving",
+          "duration": "0:40"
+        },
+        {
+          "position": "A2",
+          "title": "Nice To Each Other",
+          "duration": "3:29"
+        },
+        {
+          "position": "A3",
+          "title": "Lady Lady",
+          "duration": "3:29"
+        },
+        {
+          "position": "A4",
+          "title": "Close Up",
+          "duration": "3:15"
+        },
+        {
+          "position": "A5",
+          "title": "So Easy (To Fall In Love)",
+          "duration": "2:49"
+        },
+        {
+          "position": "A6",
+          "title": "Let Alone The One You Love",
+          "duration": "3:06"
+        },
+        {
+          "position": "B1",
+          "title": "Man I Need",
+          "duration": "3:04"
+        },
+        {
+          "position": "B2",
+          "title": "Something Inbetween",
+          "duration": "2:32"
+        },
+        {
+          "position": "B3",
+          "title": "Loud",
+          "duration": "3:04"
+        },
+        {
+          "position": "B4",
+          "title": "Baby Steps",
+          "duration": "3:17"
+        },
+        {
+          "position": "B5",
+          "title": "A Couple Minutes",
+          "duration": "3:32"
+        },
+        {
+          "position": "B6",
+          "title": "I've Seen It",
+          "duration": "2:06"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ",
+      "lowestPrice": 32,
+      "forSale": 172
     },
     {
       "id": 37593093,
@@ -431,8 +1820,836 @@
           "duration": "5:10"
         }
       ],
+      "spotifyUrl": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl",
       "lowestPrice": 23.95,
-      "forSale": 122
+      "forSale": 123
+    },
+    {
+      "id": 2760555,
+      "title": "Themes For Young Lovers",
+      "artist": "Percy Faith & His Orchestra",
+      "year": 1963,
+      "label": "Columbia",
+      "format": "Vinyl, LP, Album, Mono",
+      "cover": "https://i.discogs.com/cMe9rWS_G__zIPuFGnwUVaZ1T11EOqsPiXfdEHZ5GxE/rs:fit/g:sm/q:90/h:567/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjA1/NTUtMTI5OTgxNzQ2/Mi5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/2760555",
+      "dateAdded": "2026-11-20T16:14:53-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "I Will Follow You",
+          "duration": "2:04"
+        },
+        {
+          "position": "A2",
+          "title": "End Of The World",
+          "duration": "2:20"
+        },
+        {
+          "position": "A3",
+          "title": "Rhythm Of The Rain",
+          "duration": "2:20"
+        },
+        {
+          "position": "A4",
+          "title": "Go Away Little Girl",
+          "duration": "2:49"
+        },
+        {
+          "position": "A5",
+          "title": "Amy",
+          "duration": "2:44"
+        },
+        {
+          "position": "A6",
+          "title": "On Broadway",
+          "duration": "2:56"
+        },
+        {
+          "position": "B1",
+          "title": "Up On The Roof",
+          "duration": "2:32"
+        },
+        {
+          "position": "B2",
+          "title": "Can't Get Used To Losing You",
+          "duration": "2:35"
+        },
+        {
+          "position": "B3",
+          "title": "Our Day Will Come",
+          "duration": "2:57"
+        },
+        {
+          "position": "B4",
+          "title": "All Alone Am I",
+          "duration": "2:46"
+        },
+        {
+          "position": "B5",
+          "title": "My Coloring Book",
+          "duration": "2:57"
+        },
+        {
+          "position": "B6",
+          "title": "Theme For Young Lovers",
+          "duration": "2:35"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4SJXcCZSkkP9r8JH22ZpWh",
+      "lowestPrice": 0.5,
+      "forSale": 37
+    },
+    {
+      "id": 548627,
+      "title": "Come Go With Us",
+      "artist": "Pockets",
+      "year": 1977,
+      "label": "Columbia",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/r_x0O5hL10cTm-vBvIzrSKAE7eL0P7ATuYHMGOxu7uE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODYy/Ny0xNDAyNzQyOTk3/LTYwMjIuanBlZw.jpeg",
+      "url": "https://www.discogs.com/release/548627",
+      "dateAdded": "2026-11-20T20:39:12-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Come Go With Me",
+          "duration": "4:22"
+        },
+        {
+          "position": "A2",
+          "title": "Pasado",
+          "duration": "5:42"
+        },
+        {
+          "position": "A3",
+          "title": "One Day At A Time",
+          "duration": "5:44"
+        },
+        {
+          "position": "A4",
+          "title": "Doin' The Do",
+          "duration": "2:58"
+        },
+        {
+          "position": "B1",
+          "title": "In The Pocket",
+          "duration": "3:51"
+        },
+        {
+          "position": "B2",
+          "title": "Nothing Is Stronger",
+          "duration": "4:00"
+        },
+        {
+          "position": "B3",
+          "title": "Elusive Lady",
+          "duration": "6:58"
+        },
+        {
+          "position": "B4",
+          "title": "Wizzard Wuzzit",
+          "duration": "2:35"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4WQjrKHh6xcHvWjO0FbXMJ",
+      "lowestPrice": 0.75,
+      "forSale": 79
+    },
+    {
+      "id": 22983965,
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "year": 2021,
+      "label": "Warner Records",
+      "format": "Vinyl, LP, Album, Reissue",
+      "cover": "https://i.discogs.com/TEVjcsNa2bq-0wH8EGkT82rKtcRFZiMZ8-3mAe20WIo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTgz/OTY1LTE3MTE0NDYx/MTktNDAyOS5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/22983965",
+      "dateAdded": "2026-11-20T21:04:41-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Around The World",
+          "duration": "3:59"
+        },
+        {
+          "position": "A2",
+          "title": "Parallel Universe",
+          "duration": "4:31"
+        },
+        {
+          "position": "A3",
+          "title": "Scar Tissue",
+          "duration": "3:37"
+        },
+        {
+          "position": "A4",
+          "title": "Otherside",
+          "duration": "4:16"
+        },
+        {
+          "position": "B1",
+          "title": "Get On Top",
+          "duration": "3:18"
+        },
+        {
+          "position": "B2",
+          "title": "Californication",
+          "duration": "5:21"
+        },
+        {
+          "position": "B3",
+          "title": "Easily",
+          "duration": "3:51"
+        },
+        {
+          "position": "C1",
+          "title": "Porcelain",
+          "duration": "2:44"
+        },
+        {
+          "position": "C2",
+          "title": "Emit Remmus",
+          "duration": "4:00"
+        },
+        {
+          "position": "C3",
+          "title": "I Like Dirt",
+          "duration": "2:37"
+        },
+        {
+          "position": "C4",
+          "title": "This Velvet Glove",
+          "duration": "3:45"
+        },
+        {
+          "position": "D1",
+          "title": "Savior",
+          "duration": "4:52"
+        },
+        {
+          "position": "D2",
+          "title": "Purple Stain",
+          "duration": "4:13"
+        },
+        {
+          "position": "D3",
+          "title": "Right On Time",
+          "duration": "1:53"
+        },
+        {
+          "position": "D4",
+          "title": "Road Trippin'",
+          "duration": "3:26"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi",
+      "lowestPrice": 20.98,
+      "forSale": 145
+    },
+    {
+      "id": 2754266,
+      "title": "Roomful Of Blues",
+      "artist": "Roomful Of Blues",
+      "year": 1977,
+      "label": "Island Records",
+      "format": "Vinyl, LP, Album, Stereo",
+      "cover": "https://i.discogs.com/OFB-WR1VqQf7CgyRBqnv6rPkQVWy0ovxzEB_a5Wu7iM/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQy/NjYtMTI5OTUyNzgx/MC5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/2754266",
+      "dateAdded": "2026-11-20T20:59:56-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Red, Hot & Blue",
+          "duration": "2:14"
+        },
+        {
+          "position": "A2",
+          "title": "Love Struck",
+          "duration": "4:20"
+        },
+        {
+          "position": "A3",
+          "title": "That's My Life",
+          "duration": "3:45"
+        },
+        {
+          "position": "A4",
+          "title": "Duke's Blues",
+          "duration": "4:21"
+        },
+        {
+          "position": "A5",
+          "title": "Texas Flood",
+          "duration": "2:53"
+        },
+        {
+          "position": "B1",
+          "title": "Give It Up",
+          "duration": "3:16"
+        },
+        {
+          "position": "B2",
+          "title": "Stormy Monday",
+          "duration": "4:32"
+        },
+        {
+          "position": "B3",
+          "title": "Take It Like A Man",
+          "duration": "2:09"
+        },
+        {
+          "position": "B4",
+          "title": "Still In Love With You",
+          "duration": "4:18"
+        },
+        {
+          "position": "B5",
+          "title": "Honey Hush",
+          "duration": "4:52"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 3.11,
+      "forSale": 20
+    },
+    {
+      "id": 36311614,
+      "title": "Death In The Business Of Whaling",
+      "artist": "Searows",
+      "year": 2026,
+      "label": "Searows",
+      "format": "Vinyl, LP, Numbered, Special Edition",
+      "cover": "https://i.discogs.com/sUjEoN4p0dkJjx-N-ohRbRuR1q7sfKPxesQSuNqN1O4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzEx/NjE0LTE3NjkzMzg1/OTgtNjkyNi5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/36311614",
+      "dateAdded": "2026-11-20T16:22:58-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Belly Of The Whale",
+          "duration": "3:53"
+        },
+        {
+          "position": "A2",
+          "title": "Kill What You Eat",
+          "duration": "4:59"
+        },
+        {
+          "position": "A3",
+          "title": "Photograph Of A Cyclone",
+          "duration": "3:28"
+        },
+        {
+          "position": "A4",
+          "title": "Hunter",
+          "duration": "5:14"
+        },
+        {
+          "position": "A5",
+          "title": "Dirt",
+          "duration": "5:08"
+        },
+        {
+          "position": "B1",
+          "title": "Dearly Missed",
+          "duration": "6:00"
+        },
+        {
+          "position": "B2",
+          "title": "Junie",
+          "duration": "5:34"
+        },
+        {
+          "position": "B3",
+          "title": "In Violet",
+          "duration": "4:09"
+        },
+        {
+          "position": "B4",
+          "title": "Geese",
+          "duration": "3:40"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl",
+      "lowestPrice": 130.26,
+      "forSale": 3
+    },
+    {
+      "id": 22786961,
+      "title": "Call Me If You Get Lost",
+      "artist": "Tyler, The Creator",
+      "year": 2022,
+      "label": "Columbia",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/FV4pY--w-zYmB_K6riDf1C22sSRMxX76ApApTS0iZrU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg2/OTYxLTE2NDk5OTQ4/NTMtNzU1My5qcGVn.jpeg",
+      "url": "https://www.discogs.com/release/22786961",
+      "dateAdded": "2026-11-20T21:05:37-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Sir Baudelaire ",
+          "duration": "1:28"
+        },
+        {
+          "position": "A2",
+          "title": "Corso ",
+          "duration": "2:26"
+        },
+        {
+          "position": "A3",
+          "title": "Lemonhead  ",
+          "duration": "2:10"
+        },
+        {
+          "position": "A4",
+          "title": "Wusyaname  ",
+          "duration": "2:01"
+        },
+        {
+          "position": "A5",
+          "title": "Lumberjack ",
+          "duration": "2:18"
+        },
+        {
+          "position": "B1",
+          "title": "Hot Wind Blows ",
+          "duration": "2:35"
+        },
+        {
+          "position": "B2",
+          "title": "Massa",
+          "duration": "3:43"
+        },
+        {
+          "position": "B3",
+          "title": "Runitup ",
+          "duration": "3:49"
+        },
+        {
+          "position": "B4",
+          "title": "Manifesto ",
+          "duration": "2:55"
+        },
+        {
+          "position": "C1",
+          "title": "Sweet / I Thought You Wanted To Dance  ",
+          "duration": "9:48"
+        },
+        {
+          "position": "C2",
+          "title": "Momma Talk",
+          "duration": "1:10"
+        },
+        {
+          "position": "C3",
+          "title": "Rise!  ",
+          "duration": "3:23"
+        },
+        {
+          "position": "D1",
+          "title": "Blessed",
+          "duration": "0:57"
+        },
+        {
+          "position": "D2",
+          "title": "Juggernaut  ",
+          "duration": "2:56"
+        },
+        {
+          "position": "D3",
+          "title": "Wilshire",
+          "duration": "8:35"
+        },
+        {
+          "position": "D4",
+          "title": "Safari",
+          "duration": "2:57"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9",
+      "lowestPrice": 13.16,
+      "forSale": 240
+    },
+    {
+      "id": 10012574,
+      "title": "Honky Tonk Piano",
+      "artist": "Unknown Artist",
+      "year": 0,
+      "label": "Sutton",
+      "format": "Vinyl, LP, Stereo",
+      "cover": "https://i.discogs.com/8FFTZ7wicSsglXAd7XUveExl-Ug_tmFruF4F4Lfrutk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDEy/NTc0LTE0OTAxMjMz/ODMtNjc0NS5wbmc.jpeg",
+      "url": "https://www.discogs.com/release/10012574",
+      "dateAdded": "2026-11-20T16:15:19-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Redwing"
+        },
+        {
+          "position": "A2",
+          "title": "Fascination"
+        },
+        {
+          "position": "A3",
+          "title": "Underneath The Bamboo Tree"
+        },
+        {
+          "position": "A4",
+          "title": "School Days"
+        },
+        {
+          "position": "A5",
+          "title": "In My Merry Oldsmobile"
+        },
+        {
+          "position": "B1",
+          "title": "Meet Me In St. Louis, Louis"
+        },
+        {
+          "position": "B2",
+          "title": "Ida"
+        },
+        {
+          "position": "B3",
+          "title": "Wait Till The Sun Shines, Nellie"
+        },
+        {
+          "position": "B4",
+          "title": "My Wild Irish Rose"
+        },
+        {
+          "position": "B5",
+          "title": "Kentucky Babe"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 1.31,
+      "forSale": 4
+    },
+    {
+      "id": 6762896,
+      "title": "Soul's Greatest Hits / Kings And Queens Of Soul",
+      "artist": "Various",
+      "year": 0,
+      "label": "Columbia Musical Treasuries",
+      "format": "Vinyl, LP, Compilation, Stereo",
+      "cover": "https://i.discogs.com/_JBfrLmCNlsgo588dy6uevXXuCWKdy6P-4q9XIEdE90/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjI4/OTYtMTQ1Njc1MjI5/NS04NTE3LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/6762896",
+      "dateAdded": "2026-11-20T20:59:47-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Dance To The Music"
+        },
+        {
+          "position": "A2",
+          "title": "I Put A Spell On You"
+        },
+        {
+          "position": "A3",
+          "title": "Name Game"
+        },
+        {
+          "position": "A4",
+          "title": "Please, Please Please"
+        },
+        {
+          "position": "A5",
+          "title": "Time Has Come Today"
+        },
+        {
+          "position": "A6",
+          "title": "Private Number"
+        },
+        {
+          "position": "A7",
+          "title": "The Horse"
+        },
+        {
+          "position": "A8",
+          "title": "I've Never Found A Girl (To Love Me Like You Do)"
+        },
+        {
+          "position": "A9",
+          "title": "Soul Limbo"
+        },
+        {
+          "position": "A10",
+          "title": "Only You"
+        },
+        {
+          "position": "B1",
+          "title": "Who's Making Love"
+        },
+        {
+          "position": "B2",
+          "title": "Bookers Theme"
+        },
+        {
+          "position": "B3",
+          "title": "Nitty Gritty"
+        },
+        {
+          "position": "B4",
+          "title": "Book Of Love"
+        },
+        {
+          "position": "B5",
+          "title": "Honky Tonk (Part II)"
+        },
+        {
+          "position": "B6",
+          "title": "Yes I'm Ready"
+        },
+        {
+          "position": "B7",
+          "title": "Left Hand Woman"
+        },
+        {
+          "position": "B8",
+          "title": "Soul Shake"
+        },
+        {
+          "position": "B9",
+          "title": "Shout Bamalama"
+        },
+        {
+          "position": "B10",
+          "title": "Boogaloo Down Broadway"
+        },
+        {
+          "position": "C1",
+          "title": "Sunny"
+        },
+        {
+          "position": "C2",
+          "title": "Long Black Limousine"
+        },
+        {
+          "position": "C3",
+          "title": "God Bless The Child"
+        },
+        {
+          "position": "C4",
+          "title": "City"
+        },
+        {
+          "position": "C5",
+          "title": "Land Of 1000 Dances"
+        },
+        {
+          "position": "D1",
+          "title": "The Ten Commandments Of Love"
+        },
+        {
+          "position": "D2",
+          "title": "Son Of A Preacher Man"
+        },
+        {
+          "position": "D3",
+          "title": "You Don't Miss Your Water ('Til Your Well Runs Dry)r"
+        },
+        {
+          "position": "D4",
+          "title": "What The World Needs Now"
+        },
+        {
+          "position": "D5",
+          "title": "Speak Her Name"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 1.49,
+      "forSale": 11
+    },
+    {
+      "id": 2211651,
+      "title": "The Sound Of Jazz",
+      "artist": "Various",
+      "year": 1958,
+      "label": "Columbia",
+      "format": "Vinyl, LP, Album, Mono",
+      "cover": "https://i.discogs.com/vq5SaxIMK395tycGnxyopUsoOiKCKDNpJWRm24RrrCI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE2/NTEtMTQwMTM4MTMy/Ny00NjQ1LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/2211651",
+      "dateAdded": "2026-11-20T16:14:42-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Wild Man Blues"
+        },
+        {
+          "position": "A2",
+          "title": "Rosetta"
+        },
+        {
+          "position": "A3",
+          "title": "Fine And Mellow"
+        },
+        {
+          "position": "A4",
+          "title": "Blues"
+        },
+        {
+          "position": "B1",
+          "title": "I Left My Baby"
+        },
+        {
+          "position": "B2",
+          "title": "The Train And The River"
+        },
+        {
+          "position": "B3",
+          "title": "Nervous"
+        },
+        {
+          "position": "B4",
+          "title": "Dickie's Dream"
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5myckk5zGmSnKo5ooDFOv9",
+      "lowestPrice": 2.39,
+      "forSale": 41
+    },
+    {
+      "id": 3580369,
+      "title": "Sweet And Low Blues: Big Bands And Territory Bands Of The 20s",
+      "artist": "Various",
+      "year": 1977,
+      "label": "New World Records",
+      "format": "Vinyl, LP, Compilation, Mono",
+      "cover": "https://i.discogs.com/P8oecNXS3IImBRjDntKIxgMqhY8DEkqPtGUPaauBeG8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODAz/NjktMTUzNDAyMDM3/NS01MTE2LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/3580369",
+      "dateAdded": "2026-11-20T21:01:18-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Static Strut",
+          "duration": "2:49"
+        },
+        {
+          "position": "A2",
+          "title": "Symphonic Raps",
+          "duration": "3:13"
+        },
+        {
+          "position": "A3",
+          "title": "The Boy In The Boat",
+          "duration": "3:36"
+        },
+        {
+          "position": "A4",
+          "title": "That's How I Feel Today",
+          "duration": "2:59"
+        },
+        {
+          "position": "A5",
+          "title": "Sweet And Low Blues",
+          "duration": "3:18"
+        },
+        {
+          "position": "A6",
+          "title": "Till Times Get Better",
+          "duration": "2:58"
+        },
+        {
+          "position": "A7",
+          "title": "Willow Tree",
+          "duration": "3:23"
+        },
+        {
+          "position": "A8",
+          "title": "What Is This Thing Called Love?",
+          "duration": "3:19"
+        },
+        {
+          "position": "B1",
+          "title": "Starvation Blues",
+          "duration": "3:10"
+        },
+        {
+          "position": "B2",
+          "title": "Blue Devil Blues",
+          "duration": "3:01"
+        },
+        {
+          "position": "B3",
+          "title": "There's A Squabblin'",
+          "duration": "2:45"
+        },
+        {
+          "position": "B4",
+          "title": "Dreamland Blues I",
+          "duration": "2:28"
+        },
+        {
+          "position": "B5",
+          "title": "Dreamland Blues II",
+          "duration": "2:51"
+        },
+        {
+          "position": "B6",
+          "title": "Ruff Scuffling",
+          "duration": "2:44"
+        },
+        {
+          "position": "B7",
+          "title": "Black And Blue Rhapsody",
+          "duration": "2:51"
+        },
+        {
+          "position": "B8",
+          "title": "After You've Gone",
+          "duration": "3:26"
+        },
+        {
+          "position": "B9",
+          "title": "I've Found A New Baby",
+          "duration": "3:34"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": 3,
+      "forSale": 21
+    },
+    {
+      "id": 4807000,
+      "title": "Sonata In A Major Opus 47 Kreutzer - Sonata In C Major K.296",
+      "artist": "Wolfgang Amadeus Mozart, Ludwig van Beethoven, Ma Si-Hon, Tung Kwong-Kwong",
+      "year": 1964,
+      "label": "Insignia Records",
+      "format": "Vinyl, LP, Album",
+      "cover": "https://i.discogs.com/LLoQ-b2hFSgVOxaIopIgyhT7RqkiiOEOtKPMdkdySXc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDcw/MDAtMTM3NjEzMzMx/NC0yOTA4LmpwZWc.jpeg",
+      "url": "https://www.discogs.com/release/4807000",
+      "dateAdded": "2026-11-20T20:59:16-08:00",
+      "tracks": [
+        {
+          "position": "A1",
+          "title": "Adagio Sostenuto - Presto"
+        },
+        {
+          "position": "A2",
+          "title": "Andante Con Variazioni"
+        },
+        {
+          "position": "A3",
+          "title": "Presto"
+        },
+        {
+          "position": "B1",
+          "title": "Allegro Vivace"
+        },
+        {
+          "position": "B2",
+          "title": "Andante Sostenuto"
+        },
+        {
+          "position": "B3",
+          "title": "Rondo: Allegro"
+        }
+      ],
+      "spotifyUrl": null,
+      "lowestPrice": null,
+      "forSale": 0
     }
   ]
 }

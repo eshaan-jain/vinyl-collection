@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:49:16.811Z",
+  "generatedAt": "2026-11-21T05:09:51.449Z",
   "source": "live",
   "tasteSource": "spotify",
   "picks": [
@@ -72,7 +72,7 @@
       "artist": "Childish Gambino",
       "title": "EP (2011 Re-Release)",
       "cover": "https://i.discogs.com/VyAYdwjZfkEAmcg03XPFkJezNnVZ4aHQWwnIlAc3HKE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTMw/MTE0LTE3NDY3Njkx/MjgtMjY4MS5qcGVn.jpeg",
-      "score": 0.6,
+      "score": 0.65,
       "best": null,
       "offers": [
         {
@@ -130,7 +130,7 @@
       "artist": "Childish Gambino",
       "title": "Because the Internet",
       "cover": "https://i.discogs.com/yY2vEsKRhtdEXLd9JY1fisvn0uidu2oMQt2iVS6YLIY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjMz/NDk0LTE2Mzk1MDcw/MzItMzg0Ny5qcGVn.jpeg",
-      "score": 0.6,
+      "score": 0.65,
       "best": {
         "store": "Discogs",
         "kind": "live",
@@ -191,6 +191,71 @@
         }
       ],
       "reason": "Childish Gambino is one of your most-played artists, and you've saved this album."
+    },
+    {
+      "artist": "J. Cole",
+      "title": "The Fall-Off",
+      "cover": "https://i.discogs.com/Rqwp8q6sRSmqlhOUt3hexs8SUOpeEhQo7TqeWfgmAVE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDI1/ODg1LTE3Nzk2NTE5/MDQtNjEwMC5qcGVn.jpeg",
+      "score": 0.6,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/37425885",
+        "price": 25,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/37425885",
+          "price": 25,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=J.%20Cole%20The%20Fall-Off&type=product"
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20J.%20Cole%20The%20Fall-Off",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20J.%20Cole%20The%20Fall-Off",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=J.%20Cole%20The%20Fall-Off",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=J.%20Cole%20The%20Fall-Off%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "J. Cole is one of your most-played artists, and you've saved this album."
     },
     {
       "artist": "6LACK",
@@ -258,140 +323,10 @@
       "reason": "6LACK is one of your most-played artists, and you've saved this album."
     },
     {
-      "artist": "J. Cole",
-      "title": "The Fall-Off",
-      "cover": "https://i.discogs.com/4Of9etqY9aDYLuFwD-NYQEQc95fzwet4lMMQDHlaLfg/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjIw/NDk4LTE3ODM3NTcw/NDctMTI4NC5wbmc.jpeg",
-      "score": 0.5,
-      "best": {
-        "store": "Discogs",
-        "kind": "live",
-        "url": "https://www.discogs.com/sell/release/37620498",
-        "price": 35.9,
-        "inStock": true,
-        "local": false
-      },
-      "offers": [
-        {
-          "store": "Discogs",
-          "kind": "live",
-          "url": "https://www.discogs.com/sell/release/37620498",
-          "price": 35.9,
-          "inStock": true,
-          "local": false
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "local": true,
-          "inStock": "unknown",
-          "price": null,
-          "url": "https://www.shugarecords.com/search?q=J.%20Cole%20The%20Fall-Off&type=product"
-        },
-        {
-          "store": "Dusty Groove (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20J.%20Cole%20The%20Fall-Off",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Reckless Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Areckless.com%20J.%20Cole%20The%20Fall-Off",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Bandcamp",
-          "kind": "link",
-          "url": "https://bandcamp.com/search?q=J.%20Cole%20The%20Fall-Off",
-          "price": null,
-          "inStock": "unknown",
-          "local": false
-        },
-        {
-          "store": "eBay",
-          "kind": "link",
-          "url": "https://www.ebay.com/sch/i.html?_nkw=J.%20Cole%20The%20Fall-Off%20vinyl",
-          "price": null,
-          "inStock": "unknown",
-          "local": false
-        }
-      ],
-      "reason": "You've saved this album but don't own it on vinyl."
-    },
-    {
-      "artist": "Action Bronson",
-      "title": "PLANET FROG",
-      "cover": "https://i.discogs.com/hMTBWkkB2_e58Rs6h91HGQ895a1gXYakLZdZXD4eGGQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODQz/Mjc4LTE3ODY2MTQ2/MzAtNDQ1Mi5qcGVn.jpeg",
-      "score": 0.44999999999999996,
-      "best": {
-        "store": "Discogs",
-        "kind": "live",
-        "url": "https://www.discogs.com/sell/release/37843278",
-        "price": 188.23,
-        "inStock": true,
-        "local": false
-      },
-      "offers": [
-        {
-          "store": "Discogs",
-          "kind": "live",
-          "url": "https://www.discogs.com/sell/release/37843278",
-          "price": 188.23,
-          "inStock": true,
-          "local": false
-        },
-        {
-          "store": "Shuga Records (Chicago)",
-          "kind": "link",
-          "local": true,
-          "inStock": "unknown",
-          "price": null,
-          "url": "https://www.shugarecords.com/search?q=Action%20Bronson%20PLANET%20FROG&type=product"
-        },
-        {
-          "store": "Dusty Groove (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Action%20Bronson%20PLANET%20FROG",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Reckless Records (Chicago)",
-          "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Areckless.com%20Action%20Bronson%20PLANET%20FROG",
-          "price": null,
-          "inStock": "unknown",
-          "local": true
-        },
-        {
-          "store": "Bandcamp",
-          "kind": "link",
-          "url": "https://bandcamp.com/search?q=Action%20Bronson%20PLANET%20FROG",
-          "price": null,
-          "inStock": "unknown",
-          "local": false
-        },
-        {
-          "store": "eBay",
-          "kind": "link",
-          "url": "https://www.ebay.com/sch/i.html?_nkw=Action%20Bronson%20PLANET%20FROG%20vinyl",
-          "price": null,
-          "inStock": "unknown",
-          "local": false
-        }
-      ],
-      "reason": "You've saved this album but don't own it on vinyl."
-    },
-    {
       "artist": "spill tab",
       "title": "ANGIE",
       "cover": "https://i.discogs.com/pdn7SiS6YWSLHQdTcP9vbWWISo4mAf0xXRitilATOkc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDAy/MzA5LTE3NDc0NDg5/MzUtNjEzNC5qcGVn.jpeg",
-      "score": 0.35,
+      "score": 0.44999999999999996,
       "best": {
         "store": "Discogs",
         "kind": "live",
@@ -453,41 +388,39 @@
       "reason": "You've saved this album but don't own it on vinyl."
     },
     {
-      "artist": "Olivia Dean",
-      "title": "The Art of Loving",
-      "cover": "https://i.discogs.com/ei3NRSkqM0gxFf0HrF9DI4CX9K6NoD_SlWUlukbWC2I/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA3/MzY4LTE3NjA3OTk5/MzgtNjU1MC5qcGVn.jpeg",
-      "score": 0.30000000000000004,
+      "artist": "Jordan Ward",
+      "title": "FORWARD",
+      "cover": "https://i.discogs.com/Z1fZ74MbVjeld3sHhi6xsqbiuD8eL7fR_RRx-e2gXU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM5/NTMyLTE3MDk5MjMy/NzEtOTQ5Mi5qcGVn.jpeg",
+      "score": 0.19999999999999996,
       "best": {
-        "store": "Shuga Records (Chicago)",
+        "store": "Discogs",
         "kind": "live",
-        "local": true,
+        "url": "https://www.discogs.com/sell/release/30039532",
+        "price": 16.15,
         "inStock": true,
-        "url": "https://www.shugarecords.com/products/olivia-dean-the-art-of-loving-2025-new-cd-album-2026-island-blu-ray-soul-indie-pop",
-        "price": 25.99,
-        "condition": "New"
+        "local": false
       },
       "offers": [
         {
           "store": "Discogs",
           "kind": "live",
-          "url": "https://www.discogs.com/sell/release/35207368",
-          "price": 32,
+          "url": "https://www.discogs.com/sell/release/30039532",
+          "price": 16.15,
           "inStock": true,
           "local": false
         },
         {
           "store": "Shuga Records (Chicago)",
-          "kind": "live",
+          "kind": "link",
           "local": true,
-          "inStock": true,
-          "url": "https://www.shugarecords.com/products/olivia-dean-the-art-of-loving-2025-new-cd-album-2026-island-blu-ray-soul-indie-pop",
-          "price": 25.99,
-          "condition": "New"
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Jordan%20Ward%20FORWARD&type=product"
         },
         {
           "store": "Dusty Groove (Chicago)",
           "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Olivia%20Dean%20The%20Art%20of%20Loving",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Jordan%20Ward%20FORWARD",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -495,7 +428,7 @@
         {
           "store": "Reckless Records (Chicago)",
           "kind": "link",
-          "url": "https://www.google.com/search?q=site%3Areckless.com%20Olivia%20Dean%20The%20Art%20of%20Loving",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Jordan%20Ward%20FORWARD",
           "price": null,
           "inStock": "unknown",
           "local": true
@@ -503,7 +436,7 @@
         {
           "store": "Bandcamp",
           "kind": "link",
-          "url": "https://bandcamp.com/search?q=Olivia%20Dean%20The%20Art%20of%20Loving",
+          "url": "https://bandcamp.com/search?q=Jordan%20Ward%20FORWARD",
           "price": null,
           "inStock": "unknown",
           "local": false
@@ -511,7 +444,72 @@
         {
           "store": "eBay",
           "kind": "link",
-          "url": "https://www.ebay.com/sch/i.html?_nkw=Olivia%20Dean%20The%20Art%20of%20Loving%20vinyl",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Jordan%20Ward%20FORWARD%20vinyl",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        }
+      ],
+      "reason": "You've saved this album but don't own it on vinyl."
+    },
+    {
+      "artist": "Action Bronson",
+      "title": "PLANET FROG",
+      "cover": "https://i.discogs.com/hMTBWkkB2_e58Rs6h91HGQ895a1gXYakLZdZXD4eGGQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODQz/Mjc4LTE3ODY2MTQ2/MzAtNDQ1Mi5qcGVn.jpeg",
+      "score": 0.15000000000000002,
+      "best": {
+        "store": "Discogs",
+        "kind": "live",
+        "url": "https://www.discogs.com/sell/release/37843278",
+        "price": 187.62,
+        "inStock": true,
+        "local": false
+      },
+      "offers": [
+        {
+          "store": "Discogs",
+          "kind": "live",
+          "url": "https://www.discogs.com/sell/release/37843278",
+          "price": 187.62,
+          "inStock": true,
+          "local": false
+        },
+        {
+          "store": "Shuga Records (Chicago)",
+          "kind": "link",
+          "local": true,
+          "inStock": "unknown",
+          "price": null,
+          "url": "https://www.shugarecords.com/search?q=Action%20Bronson%20PLANET%20FROG&type=product"
+        },
+        {
+          "store": "Dusty Groove (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Adustygroove.com%20Action%20Bronson%20PLANET%20FROG",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Reckless Records (Chicago)",
+          "kind": "link",
+          "url": "https://www.google.com/search?q=site%3Areckless.com%20Action%20Bronson%20PLANET%20FROG",
+          "price": null,
+          "inStock": "unknown",
+          "local": true
+        },
+        {
+          "store": "Bandcamp",
+          "kind": "link",
+          "url": "https://bandcamp.com/search?q=Action%20Bronson%20PLANET%20FROG",
+          "price": null,
+          "inStock": "unknown",
+          "local": false
+        },
+        {
+          "store": "eBay",
+          "kind": "link",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=Action%20Bronson%20PLANET%20FROG%20vinyl",
           "price": null,
           "inStock": "unknown",
           "local": false
@@ -593,7 +591,7 @@
         "store": "Discogs",
         "kind": "live",
         "url": "https://www.discogs.com/sell/release/37912611",
-        "price": 61.49,
+        "price": 61.29,
         "inStock": true,
         "local": false
       },
@@ -602,7 +600,7 @@
           "store": "Discogs",
           "kind": "live",
           "url": "https://www.discogs.com/sell/release/37912611",
-          "price": 61.49,
+          "price": 61.29,
           "inStock": true,
           "local": false
         },
